@@ -1,0 +1,491 @@
+customer_id,first_name,last_name,email,phone,gender,date_of_birth,city,state,country,signup_date,loyalty_tier,preferred_channel,total_orders,total_spend,avg_order_value,last_purchase_date,is_active,email_opt_in
+110965,Ruby,Lee,ruby.lee965@outlook.com,+1-764-649-7589,Female,1999-02-05,Vancouver,BC,Canada,2024-09-02,Silver,Online,25,1571.62,62.86,2024-10-05,true,true
+110966,Henry,Garcia,henry.garcia966@example.com,+91-9501610993,Male,1978-08-06,Mumbai,Maharashtra,India,2024-09-07,Silver,Mobile App,14,1261.39,90.10,2024-11-10,true,true
+110967,Meera,Lee,meera.lee967@outlook.com,+1-186-634-8581,Female,1987-09-21,Miami,FL,USA,2024-09-15,Bronze,Mobile App,5,210.12,42.02,2024-12-07,true,true
+110968,Meera,Wilson,meera.wilson968@outlook.com,+1-604-145-0224,Female,1995-06-25,Seattle,WA,USA,2024-09-30,Bronze,In-store,3,95.75,31.92,2024-11-28,true,true
+110969,Sophia,Wilson,sophia.wilson969@yahoo.com,+1-165-207-2019,Female,2002-10-07,Houston,TX,USA,2024-09-13,Bronze,Online,1,13.91,13.91,2024-12-12,true,true
+110970,James,Taylor,james.taylor970@example.com,+44-7953-892-627,Male,1984-11-03,Edinburgh,Scotland,UK,2024-09-03,Silver,In-store,11,701.87,63.81,2024-11-15,true,true
+110971,Vikram,Williams,vikram.williams971@yahoo.com,+1-035-678-4248,Male,2006-07-31,Los Angeles,CA,USA,2024-09-09,Silver,Online,4,842.90,210.72,2024-10-26,true,false
+110972,Ella,Davis,ella.davis972@hotmail.com,+91-9106631107,Female,2000-03-23,Mumbai,Maharashtra,India,2024-09-15,Bronze,Mobile App,1,80.59,80.59,2024-12-17,true,false
+110973,Grace,Kumar,grace.kumar973@outlook.com,+91-9841724156,Female,1987-05-19,Mumbai,Maharashtra,India,2024-09-20,Bronze,Online,2,83.97,41.98,2024-12-18,true,true
+110974,Sneha,Clarke,sneha.clarke974@gmail.com,+1-239-173-5119,Female,2005-10-14,Montreal,QC,Canada,2024-09-17,Bronze,Online,3,226.57,75.52,2024-11-13,true,true
+110975,Arjun,Johnson,arjun.johnson975@yahoo.com,+91-9941232570,Male,1981-07-12,Mumbai,Maharashtra,India,2024-09-14,Bronze,Mobile App,6,287.84,47.97,2024-10-09,true,false
+110976,Lakshmi,Sharma,lakshmi.sharma976@gmail.com,+1-494-710-2936,Female,1993-12-08,Los Angeles,CA,USA,2024-09-18,Silver,Mobile App,11,930.75,84.61,2024-09-21,true,false
+110977,Meera,Rao,meera.rao977@yahoo.com,+61-485-435-508,Female,1995-09-06,Melbourne,VIC,Australia,2024-09-29,Bronze,Mobile App,2,83.41,41.70,2024-12-17,true,false
+110978,Emma,Patel,emma.patel978@example.com,+91-9237440635,Female,1982-05-28,Bengaluru,Karnataka,India,2024-09-20,Bronze,Online,9,305.82,33.98,2024-11-05,true,false
+110979,Ethan,Martin,ethan.martin979@hotmail.com,+44-7404-611-534,Male,1997-04-06,London,England,UK,2024-09-07,Bronze,Mobile App,4,136.79,34.20,2024-10-25,true,false
+110980,Ravi,Gupta,ravi.gupta980@yahoo.com,+1-617-474-7740,Male,1972-02-03,Seattle,WA,USA,2024-09-17,Bronze,Mobile App,1,83.12,83.12,2024-11-08,true,true
+110981,Isabella,Jones,isabella.jones981@gmail.com,+91-9395165747,Female,1983-02-10,Chennai,Tamil Nadu,India,2024-09-06,Silver,In-store,7,524.88,74.98,2024-12-30,true,false
+110982,Divya,Kumar,divya.kumar982@example.com,+1-322-718-4197,Female,1995-05-07,Miami,FL,USA,2024-09-21,Bronze,Mobile App,6,253.90,42.32,2024-11-20,true,true
+110983,Isabella,Anderson,isabella.anderson983@example.com,+91-9955829004,Female,1991-03-23,Mumbai,Maharashtra,India,2024-09-20,Bronze,Mobile App,2,122.46,61.23,2024-10-02,true,true
+110984,Ella,Anderson,ella.anderson984@example.com,+1-696-518-8707,Female,1988-08-20,Vancouver,BC,Canada,2024-09-21,Bronze,Online,9,380.07,42.23,2024-12-04,true,true
+110985,Mia,Garcia,mia.garcia985@hotmail.com,+91-9337737400,Female,2006-09-04,Mumbai,Maharashtra,India,2024-09-05,Bronze,In-store,2,195.40,97.70,2024-10-21,true,true
+110986,Chloe,Smith,chloe.smith986@example.com,+44-7690-374-784,Female,1972-04-05,Manchester,England,UK,2024-09-15,Bronze,In-store,2,60.31,30.16,2024-10-21,true,false
+110987,Vikram,Nguyen,vikram.nguyen987@example.com,+1-313-262-1590,Male,1993-07-15,New York,NY,USA,2024-09-24,Bronze,Online,4,277.84,69.46,2024-11-07,true,true
+110988,Ruby,Clarke,ruby.clarke988@yahoo.com,+44-7266-807-966,Female,1964-02-08,Manchester,England,UK,2024-09-05,Silver,Mobile App,9,661.30,73.48,2024-10-30,true,true
+110989,Isabella,Clarke,isabella.clarke989@yahoo.com,+44-7570-083-319,Female,1984-07-04,London,England,UK,2024-09-05,Silver,In-store,13,521.34,40.10,2024-09-21,true,true
+110990,Ava,Martin,ava.martin990@gmail.com,+44-7081-440-350,Female,1996-09-17,London,England,UK,2024-09-23,Bronze,Mobile App,6,220.26,36.71,2024-11-13,true,false
+110991,Aditya,Martin,aditya.martin991@yahoo.com,+1-681-413-4209,Male,1985-10-02,Vancouver,BC,Canada,2024-09-21,Silver,Mobile App,9,720.29,80.03,2024-09-21,true,true
+110992,Lily,Gupta,lily.gupta992@yahoo.com,+1-905-594-4979,Female,1971-09-11,Miami,FL,USA,2024-09-03,Bronze,Mobile App,5,190.88,38.18,2024-11-03,true,true
+110993,Sophia,Gupta,sophia.gupta993@hotmail.com,+91-9905014214,Female,1975-12-10,Mumbai,Maharashtra,India,2024-09-19,Bronze,Online,2,233.26,116.63,2024-12-15,true,false
+110994,Mason,Davis,mason.davis994@example.com,+1-810-023-1356,Male,1963-04-18,Seattle,WA,USA,2024-09-12,Silver,In-store,19,694.78,36.57,2024-11-14,true,true
+110995,Ava,Walker,ava.walker995@gmail.com,+1-229-041-9529,Female,1977-08-18,Chicago,IL,USA,2024-09-19,Bronze,Online,3,178.59,59.53,2024-11-07,true,false
+110996,Grace,Sharma,grace.sharma996@hotmail.com,+91-9393620580,Female,2005-10-31,Mumbai,Maharashtra,India,2024-09-25,Bronze,In-store,4,102.58,25.64,2024-10-24,true,true
+110997,Lakshmi,Murphy,lakshmi.murphy997@yahoo.com,+91-9080190312,Female,1982-10-29,Bengaluru,Karnataka,India,2024-09-09,Bronze,Online,14,397.92,28.42,2024-10-08,true,false
+110998,Meera,Lee,meera.lee998@gmail.com,+1-673-535-0290,Female,1990-09-14,Miami,FL,USA,2024-09-28,Bronze,In-store,11,347.36,31.58,2024-12-22,true,true
+110999,Oscar,Iyer,oscar.iyer999@hotmail.com,+91-9767020739,Male,1986-09-04,Delhi,Delhi,India,2024-09-25,Bronze,In-store,9,261.27,29.03,2024-10-11,true,true
+111000,Karthik,Garcia,karthik.garcia0@yahoo.com,+1-800-991-7388,Male,1984-04-01,Los Angeles,CA,USA,2024-09-27,Bronze,Mobile App,3,184.16,61.39,2024-11-30,true,true
+111001,William,Evans,william.evans1@yahoo.com,+91-9815159734,Male,1963-12-06,Chennai,Tamil Nadu,India,2024-09-24,Bronze,In-store,1,97.60,97.60,2024-12-26,true,false
+111002,Henry,Brown,henry.brown2@hotmail.com,+1-258-257-3559,Male,1985-12-07,Seattle,WA,USA,2024-09-30,Bronze,Online,3,80.45,26.82,2024-12-03,true,false
+111003,Meera,Khan,meera.khan3@gmail.com,+1-808-201-0117,Female,1978-12-27,Los Angeles,CA,USA,2024-09-03,Bronze,In-store,1,57.75,57.75,2024-10-16,true,true
+111004,Daniel,Miller,daniel.miller4@hotmail.com,+91-9486861071,Male,1991-04-02,Hyderabad,Telangana,India,2024-09-08,Bronze,Online,3,164.30,54.77,2024-12-01,true,true
+111005,Hannah,Reddy,hannah.reddy5@yahoo.com,+1-065-903-0758,Female,1970-04-23,Houston,TX,USA,2024-09-04,Bronze,Mobile App,4,302.69,75.67,2024-11-29,true,false
+111006,Sneha,Campbell,sneha.campbell6@hotmail.com,+61-400-401-891,Female,1991-12-31,Sydney,NSW,Australia,2024-09-29,Silver,In-store,8,880.47,110.06,2024-12-30,true,true
+111007,Grace,Williams,grace.williams7@yahoo.com,+1-710-478-4745,Female,1967-09-14,Houston,TX,USA,2024-09-23,Bronze,Mobile App,1,41.29,41.29,2024-11-27,true,true
+111008,Amelia,Brown,amelia.brown8@yahoo.com,+1-452-110-1106,Female,1989-10-04,Miami,FL,USA,2024-09-29,Bronze,Mobile App,1,71.16,71.16,2024-12-26,true,false
+111009,Isabella,Wilson,isabella.wilson9@yahoo.com,+91-9096351453,Female,1989-04-01,Delhi,Delhi,India,2024-09-18,Bronze,In-store,1,45.79,45.79,2024-09-27,true,true
+111010,Ethan,Williams,ethan.williams10@hotmail.com,+91-9354313946,Male,1979-07-14,Chennai,Tamil Nadu,India,2024-09-04,Bronze,Mobile App,6,314.36,52.39,2024-12-08,true,true
+111011,Lucas,Evans,lucas.evans11@example.com,+91-9762763224,Male,2004-05-23,Delhi,Delhi,India,2024-09-02,Silver,Online,18,1288.99,71.61,2024-09-19,true,false
+111012,Chloe,Johnson,chloe.johnson12@example.com,+1-899-963-4415,Female,1984-11-04,New York,NY,USA,2024-09-15,Silver,In-store,3,854.06,284.69,2024-11-17,true,true
+111013,Kavya,Anderson,kavya.anderson13@yahoo.com,+1-171-091-7294,Female,1990-07-31,Chicago,IL,USA,2024-09-04,Bronze,Mobile App,1,19.95,19.95,2024-12-09,true,true
+111014,Aditya,Lee,aditya.lee14@yahoo.com,+44-7383-526-003,Male,1993-12-18,Cardiff,Wales,UK,2024-09-28,Bronze,In-store,1,53.25,53.25,2024-10-21,true,true
+111015,Ryan,Singh,ryan.singh15@example.com,+1-621-439-2433,Male,1973-01-13,Seattle,WA,USA,2024-09-27,Bronze,Mobile App,4,266.55,66.64,2024-10-11,true,false
+111016,Nisha,Garcia,nisha.garcia16@gmail.com,+61-414-935-236,Female,1984-09-11,Melbourne,VIC,Australia,2024-09-25,Bronze,Online,2,38.50,19.25,2024-09-30,true,true
+111017,Priya,Jones,priya.jones17@yahoo.com,+91-9464124492,Female,1975-01-04,Mumbai,Maharashtra,India,2024-09-21,Bronze,Online,5,239.96,47.99,2024-10-03,true,true
+111018,Henry,Nair,henry.nair18@example.com,+1-409-267-1877,Male,1985-02-12,Miami,FL,USA,2024-09-09,Bronze,Mobile App,3,161.69,53.90,2024-12-25,true,true
+111019,Sophia,Reddy,sophia.reddy19@example.com,+61-456-739-447,Female,1998-05-15,Brisbane,QLD,Australia,2024-09-20,Bronze,Online,1,25.14,25.14,2024-09-20,true,true
+111020,Sai,Kumar,sai.kumar20@gmail.com,+1-311-655-2614,Male,1975-06-25,Los Angeles,CA,USA,2024-09-28,Bronze,Online,6,459.87,76.64,2024-12-30,true,true
+111021,Meera,Evans,meera.evans21@example.com,+1-835-084-3586,Female,1988-11-05,Montreal,QC,Canada,2024-09-02,Bronze,Online,1,52.22,52.22,2024-10-15,true,false
+111022,Henry,Johnson,henry.johnson22@yahoo.com,+44-7966-475-313,Male,1985-06-07,London,England,UK,2024-09-01,Silver,In-store,18,1166.82,64.82,2024-10-13,true,true
+111023,Lily,Hughes,lily.hughes23@example.com,+1-920-754-1632,Other,1979-06-21,New York,NY,USA,2024-09-19,Silver,Online,10,667.44,66.74,2024-10-29,true,true
+111024,Isabella,Reddy,isabella.reddy24@hotmail.com,+1-708-533-7260,Female,1986-09-30,Los Angeles,CA,USA,2024-09-20,Bronze,In-store,5,264.73,52.95,2024-10-13,true,true
+111025,Arjun,Patel,arjun.patel25@yahoo.com,+1-174-686-4252,Male,1995-01-04,Vancouver,BC,Canada,2024-09-12,Bronze,Mobile App,3,212.93,70.98,2024-11-14,true,true
+111026,Leo,Nair,leo.nair26@gmail.com,+1-021-625-5849,Male,1975-06-08,Chicago,IL,USA,2024-09-01,Bronze,Mobile App,2,256.30,128.15,2024-10-17,true,false
+111027,Divya,Lee,divya.lee27@example.com,+91-9084284363,Female,1987-05-09,Chennai,Tamil Nadu,India,2024-09-23,Bronze,Mobile App,1,46.47,46.47,2024-12-19,true,false
+111028,Lakshmi,Nguyen,lakshmi.nguyen28@hotmail.com,+91-9988820062,Female,1968-01-11,Hyderabad,Telangana,India,2024-09-27,Bronze,Mobile App,1,86.80,86.80,2024-10-01,true,false
+111029,Chloe,Wilson,chloe.wilson29@gmail.com,+44-7845-070-367,Female,1968-01-04,Edinburgh,Scotland,UK,2024-09-18,Bronze,Mobile App,2,114.96,57.48,2024-12-03,true,true
+111030,Oscar,Nair,oscar.nair30@outlook.com,+61-420-321-233,Male,1987-11-03,Melbourne,VIC,Australia,2024-09-25,Silver,Mobile App,13,1500.75,115.44,2024-11-02,true,false
+111031,Liam,Taylor,liam.taylor31@outlook.com,+91-9797968638,Male,1996-03-13,Hyderabad,Telangana,India,2024-09-09,Silver,In-store,9,578.05,64.23,2024-09-14,true,false
+111032,Ethan,Patel,ethan.patel32@gmail.com,+91-9538997486,Male,2006-09-12,Bengaluru,Karnataka,India,2024-09-10,Silver,In-store,14,616.90,44.06,2024-12-19,true,true
+111033,Jack,Khan,jack.khan33@yahoo.com,+1-653-884-7657,Male,1986-01-25,Houston,TX,USA,2024-09-04,Bronze,Online,5,237.26,47.45,2024-12-14,true,true
+111034,Chloe,Brown,chloe.brown34@outlook.com,+44-7616-956-272,Female,2006-05-09,Manchester,England,UK,2024-09-21,Bronze,Mobile App,7,232.90,33.27,2024-12-07,true,false
+111035,Aisha,Hughes,aisha.hughes35@outlook.com,+1-246-800-7160,Female,1997-06-26,Vancouver,BC,Canada,2024-09-02,Bronze,In-store,3,319.92,106.64,2024-09-23,true,true
+111036,Meera,Johnson,meera.johnson36@hotmail.com,+91-9704371562,Female,1979-01-18,Chennai,Tamil Nadu,India,2024-09-13,Bronze,In-store,5,388.77,77.75,2024-09-14,true,true
+111037,Kavya,Reddy,kavya.reddy37@example.com,+1-526-207-2493,Female,1994-03-14,Houston,TX,USA,2024-09-30,Bronze,Online,4,487.14,121.78,2024-10-27,true,false
+111038,Sai,Singh,sai.singh38@gmail.com,+61-483-590-228,Male,1986-07-19,Melbourne,VIC,Australia,2024-09-19,Bronze,In-store,1,66.31,66.31,2024-11-25,true,true
+111039,Daniel,Clarke,daniel.clarke39@yahoo.com,+61-403-774-238,Male,1992-04-26,Melbourne,VIC,Australia,2024-09-20,Bronze,Mobile App,7,494.88,70.70,2024-11-01,true,true
+111040,Noah,Reddy,noah.reddy40@outlook.com,+1-845-804-3869,Male,2005-10-30,Chicago,IL,USA,2024-09-30,Silver,Mobile App,11,1419.42,129.04,2024-11-03,true,true
+111041,Priya,Walker,priya.walker41@hotmail.com,+91-9369808666,Female,1983-06-04,Chennai,Tamil Nadu,India,2024-09-27,Bronze,Online,2,234.79,117.39,2024-12-31,true,true
+111042,Ella,Smith,ella.smith42@hotmail.com,+91-9891319901,Female,1997-07-13,Pune,Maharashtra,India,2024-09-08,Silver,Online,3,548.80,182.93,2024-09-17,true,true
+111043,Rohan,Nair,rohan.nair43@outlook.com,+91-9079539596,Male,1976-11-06,Delhi,Delhi,India,2024-09-20,Silver,In-store,10,816.77,81.68,2024-11-14,true,true
+111044,Lucas,Gupta,lucas.gupta44@outlook.com,+91-9368275925,Male,1987-03-16,Pune,Maharashtra,India,2024-09-06,Bronze,Online,6,160.17,26.69,2024-11-08,true,false
+111045,Chloe,Jones,chloe.jones45@example.com,+1-507-413-4222,Female,1984-12-04,Miami,FL,USA,2024-09-02,Bronze,Online,1,118.79,118.79,2024-12-19,true,false
+111046,Grace,Kumar,grace.kumar46@outlook.com,+1-876-481-6294,Female,1979-05-12,Houston,TX,USA,2024-09-02,Silver,In-store,22,881.81,40.08,2024-11-07,true,true
+111047,Charlotte,Garcia,charlotte.garcia47@example.com,+1-406-838-2685,Female,1968-05-24,Toronto,ON,Canada,2024-09-29,Bronze,In-store,1,145.18,145.18,2024-10-24,true,false
+111048,Meera,Campbell,meera.campbell48@example.com,+1-897-853-7430,Female,1991-03-19,Seattle,WA,USA,2024-09-24,Bronze,Mobile App,3,277.88,92.63,2024-12-16,true,true
+111049,Kavya,Rao,kavya.rao49@yahoo.com,+91-9086926789,Female,1993-08-18,Mumbai,Maharashtra,India,2024-09-07,Bronze,In-store,3,108.74,36.25,2024-10-21,true,false
+111050,Hannah,Sharma,hannah.sharma50@example.com,+91-9878965512,Female,1980-02-08,Pune,Maharashtra,India,2024-09-30,Silver,Mobile App,6,573.21,95.54,2024-10-14,true,false
+111051,Ella,Nair,ella.nair51@gmail.com,+61-489-503-583,Female,1986-04-25,Sydney,NSW,Australia,2024-09-18,Bronze,In-store,5,143.25,28.65,2024-11-10,true,true
+111052,Arjun,Sharma,arjun.sharma52@hotmail.com,+1-216-368-0892,Male,1975-05-30,Miami,FL,USA,2024-09-14,Bronze,Mobile App,4,333.99,83.50,2024-11-11,true,false
+111053,Nisha,Gupta,nisha.gupta53@example.com,+61-432-503-173,Female,2002-05-12,Sydney,NSW,Australia,2024-09-24,Bronze,Online,9,373.20,41.47,2024-10-07,true,true
+111054,William,Evans,william.evans54@example.com,+1-109-170-2545,Male,1994-04-29,Seattle,WA,USA,2024-09-26,Bronze,Online,1,28.60,28.60,2024-09-26,true,true
+111055,Oscar,Khan,oscar.khan55@gmail.com,+1-877-676-2881,Male,1979-03-26,Seattle,WA,USA,2024-09-09,Silver,Mobile App,10,934.91,93.49,2024-12-24,true,true
+111056,Isabella,Reddy,isabella.reddy56@hotmail.com,+1-449-327-7692,Female,2006-06-12,New York,NY,USA,2024-09-05,Bronze,Online,2,170.97,85.48,2024-11-02,true,false
+111057,Priya,Clarke,priya.clarke57@example.com,+44-7008-018-323,Female,2003-10-15,Edinburgh,Scotland,UK,2024-09-09,Bronze,Mobile App,6,233.16,38.86,2024-09-23,true,true
+111058,Arjun,Jones,arjun.jones58@hotmail.com,+91-9124350443,Male,1973-04-07,Chennai,Tamil Nadu,India,2024-09-11,Silver,In-store,15,952.87,63.52,2024-10-08,true,false
+111059,Lily,Nair,lily.nair59@yahoo.com,+1-359-159-9843,Female,1971-03-06,Houston,TX,USA,2024-09-21,Bronze,In-store,3,68.30,22.77,2024-12-01,true,true
+111060,Chloe,Davis,chloe.davis60@example.com,+91-9230283116,Other,1992-01-04,Mumbai,Maharashtra,India,2024-09-12,Bronze,In-store,4,399.33,99.83,2024-12-10,true,true
+111061,Ava,Anderson,ava.anderson61@outlook.com,+1-249-973-5810,Female,1995-02-28,Seattle,WA,USA,2024-09-20,Bronze,Online,2,84.54,42.27,2024-10-28,true,false
+111062,William,Johnson,william.johnson62@outlook.com,+44-7223-537-227,Male,1983-03-02,Manchester,England,UK,2024-09-20,Bronze,Online,7,333.62,47.66,2024-10-06,true,false
+111063,Isabella,Anderson,isabella.anderson63@outlook.com,+91-9842106371,Female,1979-10-23,Bengaluru,Karnataka,India,2024-09-06,Bronze,In-store,9,245.40,27.27,2024-11-06,true,true
+111064,Kavya,Rao,kavya.rao64@yahoo.com,+1-184-817-0178,Female,1984-04-08,Vancouver,BC,Canada,2024-09-08,Silver,Online,5,565.68,113.14,2024-12-21,true,false
+111065,Amelia,Hughes,amelia.hughes65@gmail.com,+1-064-909-0932,Female,1988-06-22,Los Angeles,CA,USA,2024-09-23,Bronze,In-store,3,76.81,25.60,2024-11-03,true,true
+111066,Lucas,Nguyen,lucas.nguyen66@gmail.com,+91-9010621643,Male,1979-02-20,Mumbai,Maharashtra,India,2024-09-17,Bronze,Mobile App,1,74.26,74.26,2024-10-16,true,false
+111067,Amelia,Patel,amelia.patel67@example.com,+44-7906-529-478,Female,1983-12-25,Manchester,England,UK,2024-09-14,Bronze,Mobile App,1,50.74,50.74,2024-10-12,true,true
+111068,Ava,Walker,ava.walker68@hotmail.com,+1-625-004-9094,Female,2001-08-28,Seattle,WA,USA,2024-09-16,Bronze,Mobile App,2,200.45,100.22,2024-10-24,true,false
+111069,Isabella,Brown,isabella.brown69@gmail.com,+91-9996703932,Female,1975-02-22,Pune,Maharashtra,India,2024-09-18,Bronze,Online,2,76.06,38.03,2024-10-10,true,true
+111070,Grace,Patel,grace.patel70@yahoo.com,+1-107-006-1938,Female,2000-01-19,Vancouver,BC,Canada,2024-09-17,Silver,Mobile App,6,552.19,92.03,2024-11-19,true,true
+111071,Sai,Sharma,sai.sharma71@example.com,+91-9180670706,Male,2001-12-16,Delhi,Delhi,India,2024-09-15,Bronze,In-store,3,93.36,31.12,2024-12-22,true,true
+111072,Rohan,Johnson,rohan.johnson72@yahoo.com,+1-854-413-5082,Male,1961-09-12,Toronto,ON,Canada,2024-09-24,Bronze,In-store,9,169.73,18.86,2024-10-20,true,true
+111073,Sneha,Davis,sneha.davis73@gmail.com,+1-144-458-0420,Female,2006-08-02,Los Angeles,CA,USA,2024-09-04,Bronze,In-store,5,459.26,91.85,2024-11-30,true,true
+111074,Emma,Clarke,emma.clarke74@yahoo.com,+61-492-350-496,Female,1995-01-03,Brisbane,QLD,Australia,2024-09-16,Silver,Mobile App,8,780.30,97.54,2024-10-08,true,true
+111075,Chloe,Brown,chloe.brown75@yahoo.com,+61-403-663-083,Female,1992-11-27,Melbourne,VIC,Australia,2024-09-28,Bronze,Mobile App,7,145.09,20.73,2024-12-30,true,true
+111076,Liam,Nguyen,liam.nguyen76@hotmail.com,+91-9585372121,Male,2006-01-08,Pune,Maharashtra,India,2024-09-25,Bronze,In-store,7,243.07,34.72,2024-12-19,true,true
+111077,Kiran,Singh,kiran.singh77@example.com,+44-7270-507-896,Male,1988-02-15,Manchester,England,UK,2024-09-17,Bronze,Mobile App,2,183.53,91.77,2024-10-23,true,false
+111078,Lucas,Davis,lucas.davis78@gmail.com,+1-914-765-5867,Male,1984-10-18,Toronto,ON,Canada,2024-09-05,Bronze,In-store,8,299.56,37.45,2024-10-18,true,true
+111079,Olivia,Kumar,olivia.kumar79@example.com,+1-822-984-3221,Female,1972-03-04,Montreal,QC,Canada,2024-09-08,Bronze,Mobile App,3,212.69,70.90,2024-10-31,true,true
+111080,Priya,Williams,priya.williams80@example.com,+91-9019458632,Female,1973-10-20,Mumbai,Maharashtra,India,2024-09-16,Bronze,Online,2,309.27,154.63,2024-10-23,true,true
+111081,Ravi,Patel,ravi.patel81@hotmail.com,+91-9157545207,Male,1996-08-11,Chennai,Tamil Nadu,India,2024-09-09,Bronze,In-store,2,77.92,38.96,2024-10-06,true,false
+111082,Aditya,Reddy,aditya.reddy82@outlook.com,+91-9969149314,Male,2000-05-30,Delhi,Delhi,India,2024-09-15,Bronze,Mobile App,4,139.03,34.76,2024-11-08,true,true
+111083,Oliver,Khan,oliver.khan83@outlook.com,+61-497-388-559,Male,1988-05-31,Sydney,NSW,Australia,2024-09-08,Bronze,Mobile App,4,87.55,21.89,2024-09-29,true,false
+111084,Ravi,Wilson,ravi.wilson84@gmail.com,+91-9233483704,Male,1979-11-15,Bengaluru,Karnataka,India,2024-09-15,Bronze,Mobile App,3,122.74,40.91,2024-12-19,true,false
+111085,Harry,Davis,harry.davis85@gmail.com,+61-426-678-342,Male,2005-10-06,Brisbane,QLD,Australia,2024-09-09,Bronze,Mobile App,3,264.78,88.26,2024-09-16,true,false
+111086,Aisha,Khan,aisha.khan86@gmail.com,+1-165-923-8848,Female,1988-01-07,Houston,TX,USA,2024-09-20,Bronze,Online,6,359.46,59.91,2024-10-23,true,true
+111087,Kiran,Clarke,kiran.clarke87@yahoo.com,+1-886-829-4827,Male,1961-10-30,Houston,TX,USA,2024-09-30,Bronze,Online,1,61.68,61.68,2024-11-01,true,true
+111088,Ruby,Khan,ruby.khan88@example.com,+91-9099422123,Female,1990-09-04,Delhi,Delhi,India,2024-09-25,Bronze,In-store,3,181.14,60.38,2024-10-02,true,false
+111089,Lakshmi,Thomas,lakshmi.thomas89@outlook.com,+91-9164475176,Female,1982-03-22,Pune,Maharashtra,India,2024-09-24,Bronze,Online,1,52.75,52.75,2024-11-04,true,false
+111090,Karthik,Patel,karthik.patel90@outlook.com,+44-7110-519-858,Male,1972-08-01,Edinburgh,Scotland,UK,2024-09-24,Bronze,In-store,3,99.93,33.31,2024-12-12,true,true
+111091,Vikram,Wilson,vikram.wilson91@hotmail.com,+1-687-620-8095,Male,1971-06-03,Houston,TX,USA,2024-09-29,Bronze,Online,3,208.45,69.48,2024-11-27,true,true
+111092,Chloe,Walker,chloe.walker92@gmail.com,+44-7394-063-407,Female,1982-11-24,Edinburgh,Scotland,UK,2024-09-16,Bronze,In-store,5,226.20,45.24,2024-12-18,true,true
+111093,Sneha,Garcia,sneha.garcia93@example.com,+1-473-054-6340,Female,1983-12-03,Toronto,ON,Canada,2024-09-01,Bronze,In-store,2,69.32,34.66,2024-10-13,true,true
+111094,Ruby,Anderson,ruby.anderson94@example.com,+91-9607121839,Female,1979-11-04,Pune,Maharashtra,India,2024-09-18,Bronze,In-store,3,267.55,89.18,2024-10-09,true,false
+111095,Oliver,Wilson,oliver.wilson95@hotmail.com,+44-7720-241-433,Male,1981-07-31,Manchester,England,UK,2024-09-02,Bronze,Mobile App,4,154.68,38.67,2024-11-01,true,false
+111096,Amit,Brown,amit.brown96@yahoo.com,+1-747-357-8026,Male,1985-03-19,New York,NY,USA,2024-09-14,Bronze,In-store,4,155.18,38.80,2024-12-03,true,false
+111097,Liam,Taylor,liam.taylor97@example.com,+91-9972224538,Male,1995-03-22,Hyderabad,Telangana,India,2024-09-06,Silver,Mobile App,4,652.44,163.11,2024-12-06,true,true
+111098,James,Khan,james.khan98@yahoo.com,+91-9095186143,Male,2005-12-22,Delhi,Delhi,India,2024-09-24,Bronze,In-store,1,57.75,57.75,2024-09-28,true,true
+111099,Grace,Miller,grace.miller99@outlook.com,+1-248-533-2996,Female,1992-08-01,Miami,FL,USA,2024-09-07,Bronze,In-store,1,115.82,115.82,2024-12-28,true,false
+111100,Isabella,Davis,isabella.davis100@hotmail.com,+1-241-423-2417,Other,2004-12-21,Chicago,IL,USA,2024-09-12,Silver,Online,7,1497.94,213.99,2024-10-26,true,false
+111101,James,Campbell,james.campbell101@gmail.com,+1-679-002-3397,Male,1984-10-18,Seattle,WA,USA,2024-09-01,Bronze,Mobile App,3,129.87,43.29,2024-10-30,true,false
+111102,Liam,Reddy,liam.reddy102@example.com,+1-727-294-1047,Male,1980-07-16,Vancouver,BC,Canada,2024-09-14,Bronze,Mobile App,2,209.63,104.81,2024-11-11,true,true
+111103,Henry,Patel,henry.patel103@hotmail.com,+44-7235-205-346,Male,2005-09-22,London,England,UK,2024-09-13,Bronze,Online,2,138.80,69.40,2024-10-05,true,true
+111104,James,Singh,james.singh104@yahoo.com,+1-493-030-9174,Male,1995-08-29,Los Angeles,CA,USA,2024-09-05,Bronze,Online,8,389.99,48.75,2024-09-08,true,false
+111105,Ella,Wilson,ella.wilson105@example.com,+91-9333133027,Female,2006-06-25,Hyderabad,Telangana,India,2024-09-20,Bronze,Mobile App,3,141.44,47.15,2024-10-22,true,true
+111106,Harry,Smith,harry.smith106@outlook.com,+91-9191950181,Male,1993-07-20,Mumbai,Maharashtra,India,2024-09-16,Bronze,Mobile App,2,100.41,50.20,2024-12-02,true,false
+111107,Sneha,Murphy,sneha.murphy107@gmail.com,+1-783-211-3131,Female,1975-09-20,Los Angeles,CA,USA,2024-09-26,Bronze,Mobile App,5,427.44,85.49,2024-10-24,true,false
+111108,Vikram,Nair,vikram.nair108@hotmail.com,+44-7343-396-939,Male,1992-02-05,Edinburgh,Scotland,UK,2024-09-04,Bronze,Online,4,235.66,58.91,2024-10-16,true,false
+111109,Hannah,Kumar,hannah.kumar109@gmail.com,+1-877-966-9616,Female,1983-06-30,Seattle,WA,USA,2024-09-20,Silver,Online,18,955.31,53.07,2024-12-01,true,false
+111110,Meera,Walker,meera.walker110@hotmail.com,+1-269-097-4150,Female,1973-07-06,New York,NY,USA,2024-09-16,Silver,Online,6,603.15,100.52,2024-10-08,true,true
+111111,Sai,Anderson,sai.anderson111@outlook.com,+1-843-192-4352,Male,2002-11-17,Miami,FL,USA,2024-09-22,Silver,Online,6,512.63,85.44,2024-11-06,true,false
+111112,Ruby,Jones,ruby.jones112@example.com,+91-9631609113,Female,1980-07-24,Mumbai,Maharashtra,India,2024-09-02,Bronze,In-store,1,88.23,88.23,2024-09-02,true,true
+111113,Ravi,Evans,ravi.evans113@gmail.com,+91-9711462981,Male,1979-10-23,Delhi,Delhi,India,2024-09-06,Bronze,Online,1,38.52,38.52,2024-10-24,true,true
+111114,Kiran,Anderson,kiran.anderson114@example.com,+1-914-864-6050,Male,2004-03-09,Montreal,QC,Canada,2024-09-05,Bronze,Mobile App,6,438.78,73.13,2024-09-08,true,false
+111115,Harry,Nair,harry.nair115@hotmail.com,+1-111-419-7007,Other,2000-12-13,Chicago,IL,USA,2024-09-29,Bronze,In-store,4,337.29,84.32,2024-12-21,true,false
+111116,James,Patel,james.patel116@hotmail.com,+91-9888099368,Male,1978-04-28,Bengaluru,Karnataka,India,2024-09-21,Bronze,In-store,2,94.80,47.40,2024-12-15,true,false
+111117,Ryan,Brown,ryan.brown117@example.com,+1-495-323-1860,Male,1995-01-30,Toronto,ON,Canada,2024-09-04,Bronze,Mobile App,5,283.02,56.60,2024-10-25,true,false
+111118,Oliver,Walker,oliver.walker118@yahoo.com,+91-9396048543,Male,2001-04-02,Bengaluru,Karnataka,India,2024-09-07,Bronze,Mobile App,1,34.84,34.84,2024-11-03,true,true
+111119,Charlotte,Sharma,charlotte.sharma119@yahoo.com,+1-670-204-0478,Female,1999-05-12,Seattle,WA,USA,2024-09-10,Silver,Mobile App,15,659.42,43.96,2024-11-02,true,false
+111120,Lily,Smith,lily.smith120@outlook.com,+44-7535-440-744,Female,1987-10-11,Manchester,England,UK,2024-09-30,Bronze,Mobile App,8,305.17,38.15,2024-12-03,true,true
+111121,Aditya,Smith,aditya.smith121@example.com,+91-9224054177,Male,1995-02-18,Delhi,Delhi,India,2024-09-23,Silver,In-store,14,1803.83,128.84,2024-12-07,true,false
+111122,Grace,Nair,grace.nair122@hotmail.com,+1-565-240-7311,Female,1980-10-05,New York,NY,USA,2024-09-30,Bronze,Mobile App,7,434.20,62.03,2024-10-25,true,false
+111123,Lucas,Gupta,lucas.gupta123@hotmail.com,+91-9102915219,Male,1982-11-13,Delhi,Delhi,India,2024-09-29,Bronze,Mobile App,1,27.92,27.92,2024-10-09,true,false
+111124,Rohan,Singh,rohan.singh124@example.com,+91-9813248095,Male,1991-06-12,Bengaluru,Karnataka,India,2024-09-16,Bronze,Mobile App,4,209.53,52.38,2024-10-18,true,true
+111125,Charlotte,Patel,charlotte.patel125@gmail.com,+44-7909-273-359,Female,1996-01-09,London,England,UK,2024-09-05,Bronze,In-store,4,140.90,35.23,2024-11-22,true,true
+111126,Hannah,Khan,hannah.khan126@outlook.com,+44-7496-965-609,Female,1990-11-01,Manchester,England,UK,2024-09-17,Bronze,Mobile App,2,99.57,49.78,2024-09-24,true,true
+111127,Rohan,Brown,rohan.brown127@example.com,+1-682-210-7489,Male,1997-03-26,Miami,FL,USA,2024-09-07,Bronze,Online,3,218.44,72.81,2024-12-20,true,false
+111128,Priya,Clarke,priya.clarke128@gmail.com,+1-614-108-5070,Female,1963-05-15,Houston,TX,USA,2024-09-23,Gold,Mobile App,26,2643.45,101.67,2024-11-02,true,true
+111129,Ravi,Reddy,ravi.reddy129@hotmail.com,+1-214-706-3999,Male,1968-05-17,Miami,FL,USA,2024-09-06,Bronze,Mobile App,1,59.49,59.49,2024-10-09,true,true
+111130,Kiran,Brown,kiran.brown130@yahoo.com,+1-234-693-6064,Male,1991-10-10,Toronto,ON,Canada,2024-09-26,Bronze,In-store,3,169.59,56.53,2024-11-17,true,false
+111131,Meera,Wilson,meera.wilson131@yahoo.com,+91-9178250053,Female,1991-09-23,Delhi,Delhi,India,2024-09-23,Bronze,Online,1,52.79,52.79,2024-10-30,true,true
+111132,Oscar,Iyer,oscar.iyer132@gmail.com,+1-797-476-9099,Male,1988-08-15,Montreal,QC,Canada,2024-09-12,Bronze,In-store,2,94.55,47.27,2024-11-16,true,true
+111133,Ananya,Evans,ananya.evans133@yahoo.com,+1-563-764-3346,Female,1991-09-18,Los Angeles,CA,USA,2024-09-26,Bronze,Mobile App,3,120.10,40.03,2024-11-20,true,true
+111134,Isabella,Jones,isabella.jones134@gmail.com,+1-083-045-1639,Female,1985-09-02,Vancouver,BC,Canada,2024-09-05,Bronze,Mobile App,4,112.95,28.24,2024-09-12,true,false
+111135,Mason,Khan,mason.khan135@yahoo.com,+91-9383688622,Male,1997-10-11,Chennai,Tamil Nadu,India,2024-09-16,Bronze,Online,3,301.07,100.36,2024-11-09,true,false
+111136,Grace,Reddy,grace.reddy136@hotmail.com,+1-356-885-2167,Female,1983-08-15,Chicago,IL,USA,2024-09-21,Bronze,Online,2,123.23,61.62,2024-10-25,true,true
+111137,Leo,Walker,leo.walker137@gmail.com,+1-387-242-6979,Male,1967-06-21,Miami,FL,USA,2024-09-18,Bronze,Mobile App,10,468.31,46.83,2024-12-22,true,true
+111138,Lakshmi,Sharma,lakshmi.sharma138@yahoo.com,+1-976-100-9018,Female,1978-02-10,Los Angeles,CA,USA,2024-09-08,Bronze,Online,3,264.20,88.07,2024-11-24,true,true
+111139,Karthik,Gupta,karthik.gupta139@hotmail.com,+91-9321438135,Male,1985-09-23,Mumbai,Maharashtra,India,2024-09-27,Bronze,Mobile App,8,351.74,43.97,2024-12-31,true,true
+111140,Daniel,Murphy,daniel.murphy140@hotmail.com,+44-7457-535-474,Male,1997-05-28,Cardiff,Wales,UK,2024-09-04,Bronze,Online,4,120.14,30.04,2024-11-16,true,true
+111141,Hannah,Miller,hannah.miller141@hotmail.com,+44-7368-116-629,Female,1995-09-08,London,England,UK,2024-09-03,Bronze,In-store,3,86.94,28.98,2024-10-29,true,true
+111142,Daniel,Jones,daniel.jones142@example.com,+1-542-076-4102,Other,1987-04-08,Los Angeles,CA,USA,2024-09-11,Silver,Online,21,824.85,39.28,2024-09-22,true,false
+111143,Rohan,Garcia,rohan.garcia143@example.com,+1-042-637-9107,Male,1997-07-09,Chicago,IL,USA,2024-09-26,Bronze,In-store,2,57.48,28.74,2024-10-03,true,true
+111144,Jack,Walker,jack.walker144@yahoo.com,+91-9836941235,Male,1980-07-08,Chennai,Tamil Nadu,India,2024-09-07,Bronze,Online,12,365.79,30.48,2024-12-14,true,false
+111145,Ruby,Clarke,ruby.clarke145@outlook.com,+91-9742911563,Female,1990-09-30,Mumbai,Maharashtra,India,2024-09-15,Bronze,Mobile App,3,97.49,32.50,2024-10-11,true,false
+111146,Ryan,Martin,ryan.martin146@gmail.com,+61-450-263-747,Male,1989-11-20,Sydney,NSW,Australia,2024-09-05,Bronze,In-store,11,361.82,32.89,2024-12-14,true,true
+111147,Ava,Smith,ava.smith147@yahoo.com,+1-843-995-0036,Female,1982-08-08,New York,NY,USA,2024-09-11,Bronze,In-store,4,289.16,72.29,2024-12-12,true,true
+111148,Nisha,Anderson,nisha.anderson148@gmail.com,+1-397-557-4807,Female,1985-04-01,Los Angeles,CA,USA,2024-09-05,Bronze,Mobile App,5,261.77,52.35,2024-12-20,true,false
+111149,Lakshmi,Reddy,lakshmi.reddy149@example.com,+91-9599381480,Female,1976-04-18,Chennai,Tamil Nadu,India,2024-09-13,Silver,Mobile App,18,850.38,47.24,2024-12-24,true,true
+111150,Olivia,Brown,olivia.brown150@gmail.com,+44-7986-362-000,Female,2002-06-07,Edinburgh,Scotland,UK,2024-09-16,Bronze,Online,1,60.87,60.87,2024-11-01,true,true
+111151,William,Singh,william.singh151@gmail.com,+91-9825808982,Male,1994-04-08,Pune,Maharashtra,India,2024-09-02,Bronze,Online,12,499.69,41.64,2024-12-20,true,true
+111152,Priya,Rao,priya.rao152@yahoo.com,+1-971-667-6933,Female,1980-03-15,Houston,TX,USA,2024-09-15,Bronze,In-store,1,39.90,39.90,2024-11-16,true,true
+111153,Lily,Brown,lily.brown153@gmail.com,+44-7860-079-274,Female,1969-06-07,Cardiff,Wales,UK,2024-09-03,Bronze,Online,1,82.00,82.00,2024-12-04,true,true
+111154,Lucas,Clarke,lucas.clarke154@gmail.com,+1-145-957-7398,Male,1981-06-15,Houston,TX,USA,2024-09-20,Bronze,Mobile App,1,62.79,62.79,2024-10-01,true,false
+111155,Vikram,Williams,vikram.williams155@outlook.com,+91-9650317990,Male,1993-10-15,Bengaluru,Karnataka,India,2024-09-06,Bronze,In-store,5,204.37,40.87,2024-12-11,true,false
+111156,Liam,Johnson,liam.johnson156@yahoo.com,+1-252-915-4807,Male,1963-08-02,New York,NY,USA,2024-09-01,Silver,Mobile App,20,647.02,32.35,2024-11-22,true,true
+111157,Ryan,Khan,ryan.khan157@yahoo.com,+1-174-082-0993,Male,1982-01-08,New York,NY,USA,2024-09-20,Silver,Online,19,555.46,29.23,2024-10-08,true,true
+111158,Rahul,Martin,rahul.martin158@outlook.com,+91-9049440115,Other,1985-08-28,Chennai,Tamil Nadu,India,2024-09-11,Bronze,Mobile App,1,98.57,98.57,2024-09-12,true,true
+111159,Karthik,Kumar,karthik.kumar159@example.com,+91-9494002060,Male,1984-02-01,Delhi,Delhi,India,2024-09-18,Silver,Online,10,811.93,81.19,2024-10-23,true,true
+111160,Noah,Sharma,noah.sharma160@hotmail.com,+1-005-568-9107,Male,1975-05-14,Vancouver,BC,Canada,2024-09-17,Silver,Online,8,673.82,84.23,2024-10-06,true,true
+111161,Nisha,Brown,nisha.brown161@example.com,+1-086-569-2073,Female,1985-02-16,Los Angeles,CA,USA,2024-09-23,Silver,In-store,22,1074.94,48.86,2024-10-03,true,true
+111162,Ruby,Nguyen,ruby.nguyen162@hotmail.com,+1-042-816-3939,Female,1975-12-29,Chicago,IL,USA,2024-09-17,Bronze,In-store,2,204.01,102.00,2024-12-17,true,true
+111163,Emma,Johnson,emma.johnson163@hotmail.com,+91-9616149288,Female,1993-08-22,Hyderabad,Telangana,India,2024-09-08,Bronze,Mobile App,4,119.31,29.83,2024-11-17,true,false
+111164,Mason,Williams,mason.williams164@hotmail.com,+1-694-998-5490,Male,1983-02-05,Chicago,IL,USA,2024-09-25,Bronze,In-store,1,66.83,66.83,2024-12-10,true,true
+111165,Oliver,Smith,oliver.smith165@example.com,+1-794-762-5426,Male,1995-03-13,Montreal,QC,Canada,2024-09-03,Bronze,In-store,2,165.63,82.81,2024-12-06,true,true
+111166,Karthik,Hughes,karthik.hughes166@hotmail.com,+91-9907879427,Male,1973-08-06,Pune,Maharashtra,India,2024-09-14,Bronze,Mobile App,4,321.18,80.30,2024-09-16,true,true
+111167,Meera,Walker,meera.walker167@gmail.com,+61-434-185-630,Female,2001-05-12,Melbourne,VIC,Australia,2024-09-23,Bronze,In-store,5,465.25,93.05,2024-11-15,true,false
+111168,Karthik,Lee,karthik.lee168@yahoo.com,+91-9554142173,Male,2003-03-28,Mumbai,Maharashtra,India,2024-09-16,Bronze,Mobile App,2,254.17,127.08,2024-12-31,true,true
+111169,Daniel,Walker,daniel.walker169@example.com,+44-7671-543-689,Male,1981-11-08,Manchester,England,UK,2024-09-03,Bronze,In-store,6,122.92,20.49,2024-12-01,true,false
+111170,Sophia,Wilson,sophia.wilson170@outlook.com,+91-9393982751,Female,1995-11-02,Hyderabad,Telangana,India,2024-09-21,Bronze,In-store,6,467.95,77.99,2024-10-30,true,true
+111171,Ryan,Miller,ryan.miller171@example.com,+1-746-174-9876,Male,1995-11-18,Chicago,IL,USA,2024-09-19,Silver,Mobile App,7,574.60,82.09,2024-12-07,true,false
+111172,Aditya,Rao,aditya.rao172@gmail.com,+91-9125611194,Male,2006-06-15,Delhi,Delhi,India,2024-09-13,Bronze,In-store,1,29.69,29.69,2024-12-04,true,false
+111173,Sai,Rao,sai.rao173@gmail.com,+1-214-506-8642,Male,1986-03-02,Montreal,QC,Canada,2024-09-20,Bronze,Online,5,378.42,75.68,2024-11-23,true,false
+111174,Ella,Thomas,ella.thomas174@gmail.com,+91-9113786850,Female,2002-11-14,Hyderabad,Telangana,India,2024-09-26,Silver,Online,5,945.48,189.10,2024-12-01,true,true
+111175,Ravi,Patel,ravi.patel175@outlook.com,+1-091-493-3165,Other,1983-04-24,Seattle,WA,USA,2024-09-27,Bronze,In-store,3,63.56,21.19,2024-11-18,true,false
+111176,Jack,Sharma,jack.sharma176@hotmail.com,+61-462-730-960,Male,1979-09-11,Melbourne,VIC,Australia,2024-09-24,Bronze,Mobile App,2,123.38,61.69,2024-12-21,true,false
+111177,Rohan,Martin,rohan.martin177@gmail.com,+61-455-561-678,Male,2005-06-05,Brisbane,QLD,Australia,2024-09-04,Bronze,Mobile App,9,241.52,26.84,2024-10-15,true,true
+111178,Rahul,Sharma,rahul.sharma178@hotmail.com,+44-7842-716-184,Male,1964-07-21,Edinburgh,Scotland,UK,2024-09-03,Silver,Mobile App,5,715.71,143.14,2024-10-04,true,true
+111179,Kiran,Sharma,kiran.sharma179@outlook.com,+1-315-664-2289,Male,1970-03-14,Miami,FL,USA,2024-09-01,Silver,Mobile App,15,1085.26,72.35,2024-12-05,true,false
+111180,Daniel,Campbell,daniel.campbell180@example.com,+1-407-660-1284,Male,1985-10-07,Vancouver,BC,Canada,2024-09-09,Bronze,In-store,11,254.23,23.11,2024-10-03,true,true
+111181,Ethan,Khan,ethan.khan181@yahoo.com,+91-9258080787,Male,1970-04-15,Bengaluru,Karnataka,India,2024-09-03,Bronze,Online,3,314.32,104.77,2024-12-06,true,true
+111182,Isabella,Wilson,isabella.wilson182@gmail.com,+1-007-086-6961,Female,1982-07-07,Chicago,IL,USA,2024-09-11,Bronze,In-store,3,198.73,66.24,2024-12-30,true,true
+111183,Ella,Rao,ella.rao183@hotmail.com,+1-403-786-0874,Female,1993-10-23,Toronto,ON,Canada,2024-09-22,Bronze,In-store,2,163.18,81.59,2024-09-30,true,false
+111184,Ravi,Garcia,ravi.garcia184@example.com,+91-9008340811,Male,1985-11-18,Pune,Maharashtra,India,2024-09-02,Bronze,Mobile App,10,495.03,49.50,2024-09-07,true,false
+111185,Emma,Taylor,emma.taylor185@gmail.com,+44-7092-304-738,Female,1995-12-24,London,England,UK,2024-09-18,Bronze,Mobile App,7,343.36,49.05,2024-12-06,true,true
+111186,Aditya,Johnson,aditya.johnson186@yahoo.com,+61-496-002-352,Male,1965-01-26,Sydney,NSW,Australia,2024-09-22,Bronze,Mobile App,2,86.37,43.19,2024-11-09,true,false
+111187,Lily,Sharma,lily.sharma187@gmail.com,+1-869-428-3018,Female,1971-11-29,Miami,FL,USA,2024-09-02,Silver,In-store,17,1661.95,97.76,2024-12-17,true,true
+111188,Daniel,Sharma,daniel.sharma188@yahoo.com,+91-9515082703,Male,1981-01-10,Chennai,Tamil Nadu,India,2024-09-23,Bronze,In-store,1,29.77,29.77,2024-09-25,true,true
+111189,Lakshmi,Singh,lakshmi.singh189@gmail.com,+1-778-668-2218,Female,2000-04-09,Seattle,WA,USA,2024-09-09,Silver,Mobile App,14,686.98,49.07,2024-12-08,true,false
+111190,Ryan,Taylor,ryan.taylor190@outlook.com,+1-951-675-3905,Male,1980-12-27,Los Angeles,CA,USA,2024-09-05,Bronze,In-store,2,99.44,49.72,2024-10-20,true,false
+111191,Grace,Khan,grace.khan191@outlook.com,+44-7935-869-578,Female,1988-01-25,Cardiff,Wales,UK,2024-09-03,Bronze,Online,2,110.03,55.02,2024-09-15,true,true
+111192,Divya,Kumar,divya.kumar192@outlook.com,+1-102-147-0469,Female,1998-12-03,New York,NY,USA,2024-09-21,Silver,In-store,6,596.03,99.34,2024-10-21,true,false
+111193,Priya,Williams,priya.williams193@example.com,+61-458-258-565,Female,1991-09-28,Sydney,NSW,Australia,2024-09-08,Silver,Online,6,1105.70,184.28,2024-09-22,true,false
+111194,Arjun,Nguyen,arjun.nguyen194@example.com,+91-9864209102,Male,1990-07-08,Hyderabad,Telangana,India,2024-09-27,Bronze,In-store,1,42.19,42.19,2024-11-17,true,false
+111195,Ananya,Clarke,ananya.clarke195@gmail.com,+1-693-917-9916,Female,1989-05-14,Seattle,WA,USA,2024-09-08,Bronze,In-store,1,48.48,48.48,2024-09-24,true,false
+111196,Lakshmi,Campbell,lakshmi.campbell196@outlook.com,+44-7646-048-212,Female,1984-07-10,London,England,UK,2024-09-03,Bronze,In-store,4,59.32,14.83,2024-11-25,true,true
+111197,Chloe,Clarke,chloe.clarke197@hotmail.com,+91-9041677510,Female,1985-05-21,Bengaluru,Karnataka,India,2024-09-27,Bronze,Mobile App,2,92.84,46.42,2024-12-15,true,true
+111198,Vikram,Gupta,vikram.gupta198@outlook.com,+1-847-696-5222,Male,1979-03-18,Montreal,QC,Canada,2024-09-23,Bronze,Online,7,212.40,30.34,2024-12-25,true,false
+111199,Isabella,Martin,isabella.martin199@gmail.com,+91-9546361386,Female,1994-06-16,Hyderabad,Telangana,India,2024-09-25,Bronze,In-store,6,292.30,48.72,2024-11-02,true,true
+111200,Henry,Kumar,henry.kumar200@outlook.com,+1-284-925-6934,Male,1987-12-25,Chicago,IL,USA,2024-09-20,Bronze,Mobile App,1,139.08,139.08,2024-11-06,true,false
+111201,Ava,Smith,ava.smith201@yahoo.com,+1-051-007-2528,Female,1986-06-10,Miami,FL,USA,2024-09-12,Bronze,Online,4,67.57,16.89,2024-11-06,true,true
+111202,Emma,Jones,emma.jones202@example.com,+1-757-247-9787,Female,1985-10-11,Seattle,WA,USA,2024-09-12,Bronze,Mobile App,6,415.61,69.27,2024-12-06,true,true
+111203,Aisha,Wilson,aisha.wilson203@hotmail.com,+91-9842477340,Female,1986-07-20,Chennai,Tamil Nadu,India,2024-09-06,Silver,Mobile App,11,898.66,81.70,2024-09-18,true,true
+111204,Kavya,Wilson,kavya.wilson204@outlook.com,+91-9153242984,Female,1979-07-25,Bengaluru,Karnataka,India,2024-09-11,Silver,In-store,9,543.90,60.43,2024-11-21,true,false
+111205,Arjun,Sharma,arjun.sharma205@example.com,+1-885-893-2487,Male,1994-08-11,Montreal,QC,Canada,2024-09-21,Bronze,In-store,1,54.69,54.69,2024-12-26,true,true
+111206,Amit,Lee,amit.lee206@example.com,+91-9712330862,Male,1971-03-17,Hyderabad,Telangana,India,2024-09-16,Bronze,Online,1,23.57,23.57,2024-11-20,true,true
+111207,Ryan,Johnson,ryan.johnson207@yahoo.com,+1-054-341-7934,Male,2006-03-08,New York,NY,USA,2024-09-08,Bronze,In-store,1,38.04,38.04,2024-09-11,true,true
+111208,Oliver,Davis,oliver.davis208@hotmail.com,+61-492-840-051,Male,1980-01-21,Brisbane,QLD,Australia,2024-09-19,Silver,In-store,7,721.39,103.06,2024-11-10,true,true
+111209,Amelia,Singh,amelia.singh209@gmail.com,+1-180-425-0824,Female,1980-11-04,Los Angeles,CA,USA,2024-09-20,Bronze,In-store,4,117.11,29.28,2024-11-03,true,false
+111210,Ethan,Johnson,ethan.johnson210@example.com,+91-9730603512,Male,2006-08-30,Delhi,Delhi,India,2024-09-11,Bronze,In-store,5,251.13,50.23,2024-11-16,true,false
+111211,Rahul,Jones,rahul.jones211@hotmail.com,+1-948-077-8843,Male,1985-05-11,Chicago,IL,USA,2024-09-11,Bronze,Online,2,202.67,101.33,2024-12-27,true,false
+111212,Meera,Brown,meera.brown212@gmail.com,+1-469-266-2242,Female,2005-11-23,Toronto,ON,Canada,2024-09-14,Bronze,Mobile App,4,317.50,79.38,2024-10-10,true,true
+111213,Amit,Anderson,amit.anderson213@example.com,+91-9103134262,Male,1983-08-02,Pune,Maharashtra,India,2024-09-17,Bronze,Online,6,250.60,41.77,2024-11-18,true,true
+111214,Divya,Patel,divya.patel214@gmail.com,+61-401-565-748,Female,1984-02-08,Sydney,NSW,Australia,2024-09-10,Silver,Online,6,650.55,108.42,2024-10-06,true,false
+111215,Ava,Davis,ava.davis215@outlook.com,+1-719-272-8103,Female,1990-01-30,New York,NY,USA,2024-09-06,Bronze,Mobile App,8,284.32,35.54,2024-12-13,true,false
+111216,Amelia,Williams,amelia.williams216@outlook.com,+44-7461-669-478,Female,1981-08-19,Manchester,England,UK,2024-09-03,Silver,Online,11,688.28,62.57,2024-11-10,true,true
+111217,William,Brown,william.brown217@yahoo.com,+44-7064-961-477,Male,1983-01-15,Cardiff,Wales,UK,2024-09-14,Bronze,In-store,4,441.73,110.43,2024-12-24,true,true
+111218,Vikram,Sharma,vikram.sharma218@example.com,+91-9630225870,Male,1998-03-01,Mumbai,Maharashtra,India,2024-09-26,Bronze,In-store,4,302.60,75.65,2024-11-29,true,true
+111219,Chloe,Gupta,chloe.gupta219@yahoo.com,+1-856-874-4080,Female,1991-10-19,Seattle,WA,USA,2024-09-06,Bronze,Mobile App,9,276.31,30.70,2024-11-17,true,true
+111220,Liam,Jones,liam.jones220@gmail.com,+61-447-731-023,Male,1970-10-14,Sydney,NSW,Australia,2024-09-17,Bronze,Mobile App,5,351.25,70.25,2024-12-27,true,false
+111221,Olivia,Nair,olivia.nair221@hotmail.com,+61-408-504-353,Female,1981-02-22,Sydney,NSW,Australia,2024-09-30,Silver,Online,13,1506.81,115.91,2024-10-07,true,false
+111222,Vikram,Evans,vikram.evans222@gmail.com,+1-646-051-0690,Male,2006-09-22,Los Angeles,CA,USA,2024-09-24,Bronze,Online,2,169.39,84.69,2024-12-31,true,true
+111223,Kavya,Davis,kavya.davis223@gmail.com,+44-7438-609-372,Female,1989-08-26,Edinburgh,Scotland,UK,2024-09-09,Bronze,Mobile App,1,70.26,70.26,2024-12-05,true,true
+111224,Ryan,Brown,ryan.brown224@yahoo.com,+91-9443485065,Male,2003-03-31,Delhi,Delhi,India,2024-09-26,Silver,In-store,18,558.42,31.02,2024-11-21,true,true
+111225,Lily,Singh,lily.singh225@yahoo.com,+91-9507796936,Female,1984-08-30,Bengaluru,Karnataka,India,2024-09-03,Bronze,Mobile App,6,376.51,62.75,2024-09-05,true,true
+111226,Aisha,Smith,aisha.smith226@example.com,+61-474-034-184,Female,2001-03-21,Melbourne,VIC,Australia,2024-09-10,Bronze,Online,3,100.78,33.59,2024-12-02,true,true
+111227,Chloe,Johnson,chloe.johnson227@yahoo.com,+1-113-700-0124,Female,1970-10-21,Vancouver,BC,Canada,2024-09-20,Bronze,Mobile App,4,104.25,26.06,2024-12-24,true,false
+111228,Karthik,Garcia,karthik.garcia228@outlook.com,+44-7781-514-177,Male,2003-07-22,Cardiff,Wales,UK,2024-09-07,Bronze,Online,2,74.71,37.35,2024-10-01,true,true
+111229,Oliver,Walker,oliver.walker229@example.com,+61-455-978-954,Male,2001-03-03,Brisbane,QLD,Australia,2024-09-22,Silver,In-store,19,1047.89,55.15,2024-10-19,true,true
+111230,Hannah,Murphy,hannah.murphy230@hotmail.com,+1-947-580-0587,Female,1985-09-15,Vancouver,BC,Canada,2024-09-23,Silver,Mobile App,8,539.12,67.39,2024-12-26,true,false
+111231,Charlotte,Singh,charlotte.singh231@yahoo.com,+91-9431841299,Female,1987-03-15,Chennai,Tamil Nadu,India,2024-09-10,Bronze,In-store,1,42.29,42.29,2024-10-14,true,true
+111232,Lakshmi,Gupta,lakshmi.gupta232@hotmail.com,+91-9649911489,Female,1989-11-30,Delhi,Delhi,India,2024-09-29,Bronze,In-store,1,67.25,67.25,2024-10-06,true,false
+111233,Jack,Patel,jack.patel233@outlook.com,+91-9235491149,Male,2000-05-31,Mumbai,Maharashtra,India,2024-09-11,Bronze,Mobile App,7,357.36,51.05,2024-10-20,true,true
+111234,Lakshmi,Martin,lakshmi.martin234@gmail.com,+1-870-921-5769,Female,1980-07-18,Miami,FL,USA,2024-09-07,Silver,Online,12,764.28,63.69,2024-10-17,true,false
+111235,Rohan,Kumar,rohan.kumar235@gmail.com,+44-7021-780-559,Male,1983-09-08,Cardiff,Wales,UK,2024-09-25,Silver,Mobile App,7,654.57,93.51,2024-12-11,true,true
+111236,Ava,Taylor,ava.taylor236@outlook.com,+91-9993573079,Female,1998-01-16,Chennai,Tamil Nadu,India,2024-09-06,Bronze,In-store,1,54.94,54.94,2024-09-11,true,true
+111237,Vikram,Smith,vikram.smith237@gmail.com,+44-7699-726-243,Other,1990-10-06,Manchester,England,UK,2024-09-02,Bronze,In-store,5,155.86,31.17,2024-12-06,true,true
+111238,Aditya,Sharma,aditya.sharma238@hotmail.com,+91-9303219022,Male,2005-05-17,Chennai,Tamil Nadu,India,2024-09-03,Silver,In-store,5,510.61,102.12,2024-10-04,true,true
+111239,Jack,Thomas,jack.thomas239@gmail.com,+44-7066-033-761,Male,1985-08-18,Cardiff,Wales,UK,2024-09-05,Bronze,Mobile App,1,46.96,46.96,2024-12-12,true,false
+111240,Jack,Clarke,jack.clarke240@gmail.com,+44-7504-395-586,Male,1968-11-17,Edinburgh,Scotland,UK,2024-09-12,Silver,Online,22,810.85,36.86,2024-09-16,true,false
+111241,Ravi,Hughes,ravi.hughes241@hotmail.com,+1-861-670-2149,Male,1991-05-04,Houston,TX,USA,2024-09-19,Bronze,Mobile App,3,195.27,65.09,2024-10-23,true,true
+111242,Emma,Rao,emma.rao242@hotmail.com,+91-9731786252,Female,2005-10-28,Hyderabad,Telangana,India,2024-09-24,Silver,In-store,5,514.77,102.95,2024-12-16,true,true
+111243,Lucas,Reddy,lucas.reddy243@example.com,+61-400-051-218,Male,1978-02-23,Sydney,NSW,Australia,2024-09-29,Bronze,In-store,1,26.23,26.23,2024-11-10,true,false
+111244,Divya,Garcia,divya.garcia244@gmail.com,+1-789-620-6078,Other,1979-12-30,New York,NY,USA,2024-09-15,Bronze,Online,1,41.73,41.73,2024-09-17,true,false
+111245,Harry,Jones,harry.jones245@yahoo.com,+91-9802726074,Male,1995-06-24,Mumbai,Maharashtra,India,2024-09-06,Silver,Online,10,1492.16,149.22,2024-10-24,true,false
+111246,Ethan,Kumar,ethan.kumar246@hotmail.com,+1-286-374-8018,Male,1951-08-08,Houston,TX,USA,2024-09-05,Bronze,Mobile App,1,32.19,32.19,2024-11-25,true,true
+111247,Olivia,Khan,olivia.khan247@yahoo.com,+91-9915704763,Female,1995-01-01,Bengaluru,Karnataka,India,2024-09-04,Bronze,In-store,6,228.42,38.07,2024-10-21,true,false
+111248,Ananya,Sharma,ananya.sharma248@example.com,+61-480-233-144,Female,1974-10-11,Sydney,NSW,Australia,2024-09-12,Bronze,Online,11,326.34,29.67,2024-12-11,true,false
+111249,Amelia,Williams,amelia.williams249@yahoo.com,+1-735-348-3708,Female,1996-01-10,Vancouver,BC,Canada,2024-09-07,Silver,In-store,12,772.05,64.34,2024-10-02,true,false
+111250,Ethan,Patel,ethan.patel250@outlook.com,+1-074-175-0220,Male,1993-11-06,Toronto,ON,Canada,2024-09-14,Bronze,In-store,3,146.80,48.93,2024-09-19,true,true
+111251,Isabella,Campbell,isabella.campbell251@outlook.com,+1-183-914-4348,Female,1972-10-28,Chicago,IL,USA,2024-09-30,Silver,In-store,7,962.52,137.50,2024-11-12,true,true
+111252,Aisha,Campbell,aisha.campbell252@hotmail.com,+1-557-040-1910,Female,1982-04-16,Vancouver,BC,Canada,2024-09-05,Gold,In-store,30,3645.83,121.53,2024-12-19,true,true
+111253,William,Iyer,william.iyer253@hotmail.com,+91-9927300807,Male,1997-01-15,Chennai,Tamil Nadu,India,2024-09-25,Bronze,Online,6,469.51,78.25,2024-11-13,true,true
+111254,Hannah,Taylor,hannah.taylor254@hotmail.com,+1-548-336-8940,Female,1980-08-17,Seattle,WA,USA,2024-09-03,Silver,Mobile App,8,852.29,106.54,2024-11-16,true,true
+111255,Harry,Martin,harry.martin255@gmail.com,+91-9603524663,Male,1962-02-03,Chennai,Tamil Nadu,India,2024-09-21,Bronze,Online,4,319.99,80.00,2024-10-17,true,true
+111256,Nisha,Taylor,nisha.taylor256@outlook.com,+61-407-934-081,Female,1974-06-03,Brisbane,QLD,Australia,2024-09-28,Silver,Online,15,650.70,43.38,2024-12-16,true,true
+111257,Olivia,Campbell,olivia.campbell257@outlook.com,+1-976-282-5790,Female,1973-05-28,Miami,FL,USA,2024-09-10,Bronze,In-store,1,126.09,126.09,2024-10-13,true,true
+111258,Lakshmi,Khan,lakshmi.khan258@yahoo.com,+1-605-140-7118,Female,1985-08-20,Houston,TX,USA,2024-09-16,Silver,In-store,13,1140.58,87.74,2024-11-12,true,false
+111259,Ethan,Walker,ethan.walker259@hotmail.com,+91-9354125655,Male,1981-04-16,Hyderabad,Telangana,India,2024-09-06,Bronze,Mobile App,2,102.63,51.31,2024-09-28,true,false
+111260,Kiran,Garcia,kiran.garcia260@outlook.com,+1-066-266-3796,Male,1996-02-15,Houston,TX,USA,2024-09-23,Bronze,Online,3,125.31,41.77,2024-10-11,true,true
+111261,Arjun,Iyer,arjun.iyer261@outlook.com,+91-9243901277,Male,1979-08-13,Pune,Maharashtra,India,2024-09-23,Bronze,Mobile App,9,393.69,43.74,2024-10-26,true,true
+111262,Oscar,Thomas,oscar.thomas262@outlook.com,+1-230-792-7308,Male,2005-05-13,Chicago,IL,USA,2024-09-11,Bronze,Mobile App,12,405.29,33.77,2024-09-12,true,false
+111263,Ava,Anderson,ava.anderson263@outlook.com,+91-9581089602,Female,1989-09-27,Hyderabad,Telangana,India,2024-09-18,Silver,In-store,11,664.04,60.37,2024-11-30,true,true
+111264,Olivia,Rao,olivia.rao264@yahoo.com,+1-812-660-8454,Female,1974-10-10,Seattle,WA,USA,2024-09-03,Bronze,Mobile App,3,104.94,34.98,2024-10-15,true,false
+111265,Ravi,Hughes,ravi.hughes265@example.com,+44-7324-325-258,Male,1995-07-14,Cardiff,Wales,UK,2024-09-30,Bronze,Online,3,358.62,119.54,2024-10-06,true,true
+111266,Ethan,Kumar,ethan.kumar266@yahoo.com,+1-476-065-3255,Male,1987-02-12,Vancouver,BC,Canada,2024-09-10,Bronze,Mobile App,13,398.20,30.63,2024-12-23,true,false
+111267,Mia,Martin,mia.martin267@hotmail.com,+1-388-302-0276,Female,2001-01-25,Toronto,ON,Canada,2024-09-05,Silver,In-store,19,844.60,44.45,2024-11-10,true,true
+111268,Mason,Campbell,mason.campbell268@gmail.com,+44-7648-753-162,Male,1984-05-17,Manchester,England,UK,2024-09-14,Bronze,In-store,12,447.46,37.29,2024-11-11,true,true
+111269,Grace,Anderson,grace.anderson269@outlook.com,+1-461-647-5135,Female,1983-03-20,Chicago,IL,USA,2024-09-26,Bronze,In-store,5,424.15,84.83,2024-10-11,true,true
+111270,Kavya,Anderson,kavya.anderson270@yahoo.com,+1-661-083-5638,Female,1961-08-01,Chicago,IL,USA,2024-09-03,Bronze,Online,4,173.96,43.49,2024-10-15,true,true
+111271,Mason,Clarke,mason.clarke271@example.com,+1-805-958-0903,Male,1974-09-22,Miami,FL,USA,2024-09-08,Bronze,Mobile App,1,60.35,60.35,2024-12-22,true,true
+111272,Mia,Khan,mia.khan272@yahoo.com,+61-449-954-467,Female,2006-04-18,Melbourne,VIC,Australia,2024-09-17,Bronze,In-store,9,372.12,41.35,2024-11-26,true,true
+111273,Grace,Evans,grace.evans273@example.com,+1-910-710-8261,Female,1985-04-28,Chicago,IL,USA,2024-09-26,Bronze,Online,4,160.55,40.14,2024-12-07,true,true
+111274,Kiran,Singh,kiran.singh274@example.com,+1-939-247-4285,Male,1980-04-01,New York,NY,USA,2024-09-15,Bronze,Mobile App,1,78.95,78.95,2024-10-01,true,false
+111275,Sneha,Khan,sneha.khan275@gmail.com,+44-7096-861-453,Female,1985-06-26,Manchester,England,UK,2024-09-23,Bronze,Online,6,109.97,18.33,2024-10-14,true,false
+111276,Emma,Sharma,emma.sharma276@yahoo.com,+91-9424404149,Female,1967-07-23,Mumbai,Maharashtra,India,2024-09-12,Bronze,In-store,2,100.89,50.45,2024-11-25,true,true
+111277,Nisha,Johnson,nisha.johnson277@yahoo.com,+91-9512214906,Female,1987-01-21,Mumbai,Maharashtra,India,2024-09-26,Bronze,In-store,1,102.96,102.96,2024-12-29,true,true
+111278,Nisha,Evans,nisha.evans278@yahoo.com,+1-203-930-6442,Female,1974-01-18,Toronto,ON,Canada,2024-09-21,Gold,Online,24,3456.47,144.02,2024-11-21,true,false
+111279,Lakshmi,Singh,lakshmi.singh279@hotmail.com,+91-9276372045,Female,1974-06-25,Chennai,Tamil Nadu,India,2024-09-29,Silver,In-store,12,787.06,65.59,2024-11-21,true,false
+111280,Hannah,Gupta,hannah.gupta280@hotmail.com,+91-9138232197,Female,1977-08-01,Hyderabad,Telangana,India,2024-09-12,Bronze,In-store,12,489.08,40.76,2024-12-31,true,false
+111281,Ava,Murphy,ava.murphy281@yahoo.com,+1-116-112-3255,Female,1991-07-07,Houston,TX,USA,2024-09-24,Bronze,Online,2,360.45,180.22,2024-11-27,true,true
+111282,Mason,Iyer,mason.iyer282@outlook.com,+1-444-158-1632,Male,1994-09-24,Houston,TX,USA,2024-09-26,Bronze,In-store,6,207.33,34.55,2024-10-06,true,false
+111283,Kavya,Lee,kavya.lee283@example.com,+44-7793-033-514,Female,1972-12-02,Manchester,England,UK,2024-09-22,Bronze,Online,7,444.79,63.54,2024-12-12,true,true
+111284,Noah,Sharma,noah.sharma284@yahoo.com,+1-831-144-8962,Male,1988-01-29,New York,NY,USA,2024-09-27,Bronze,Online,2,94.21,47.10,2024-10-09,true,true
+111285,Sophia,Smith,sophia.smith285@yahoo.com,+91-9357233166,Other,1975-04-02,Delhi,Delhi,India,2024-09-22,Bronze,Online,2,47.09,23.55,2024-10-20,true,true
+111286,Sophia,Gupta,sophia.gupta286@yahoo.com,+91-9328498191,Female,1990-09-18,Mumbai,Maharashtra,India,2024-09-22,Bronze,In-store,4,173.57,43.39,2024-11-12,true,false
+111287,Amit,Walker,amit.walker287@hotmail.com,+61-453-801-868,Male,1997-06-17,Melbourne,VIC,Australia,2024-09-20,Bronze,Online,7,230.11,32.87,2024-10-11,true,false
+111288,Ananya,Singh,ananya.singh288@outlook.com,+91-9892590740,Other,1973-04-23,Mumbai,Maharashtra,India,2024-09-27,Silver,Online,22,724.97,32.95,2024-12-27,true,true
+111289,Mia,Campbell,mia.campbell289@example.com,+1-216-937-5131,Female,1967-05-15,Houston,TX,USA,2024-09-26,Bronze,Mobile App,5,277.39,55.48,2024-11-09,true,true
+111290,Olivia,Clarke,olivia.clarke290@outlook.com,+91-9160791543,Female,2001-12-07,Delhi,Delhi,India,2024-09-21,Bronze,In-store,7,226.23,32.32,2024-11-04,true,false
+111291,James,Lee,james.lee291@hotmail.com,+1-011-525-5825,Male,1968-01-22,Chicago,IL,USA,2024-09-17,Bronze,In-store,10,401.01,40.10,2024-12-03,true,false
+111292,Jack,Thomas,jack.thomas292@gmail.com,+61-474-212-589,Male,1990-07-07,Brisbane,QLD,Australia,2024-09-02,Bronze,Mobile App,1,34.14,34.14,2024-10-01,true,true
+111293,Ruby,Clarke,ruby.clarke293@example.com,+1-149-198-2183,Other,1985-04-14,Chicago,IL,USA,2024-09-08,Silver,Online,6,615.59,102.60,2024-09-21,true,true
+111294,Oscar,Thomas,oscar.thomas294@yahoo.com,+1-231-163-1910,Male,1980-04-16,Miami,FL,USA,2024-09-17,Bronze,Mobile App,6,310.67,51.78,2024-10-12,true,true
+111295,Hannah,Sharma,hannah.sharma295@example.com,+44-7296-608-263,Female,1980-03-15,London,England,UK,2024-09-12,Bronze,Mobile App,4,100.36,25.09,2024-12-10,true,true
+111296,Lily,Anderson,lily.anderson296@hotmail.com,+1-072-752-4146,Female,1979-06-03,Vancouver,BC,Canada,2024-09-23,Bronze,In-store,2,138.34,69.17,2024-10-23,true,true
+111297,Mason,Evans,mason.evans297@gmail.com,+1-427-818-9156,Male,1989-04-20,Montreal,QC,Canada,2024-09-27,Bronze,Mobile App,4,173.43,43.36,2024-10-07,true,false
+111298,Sneha,Gupta,sneha.gupta298@hotmail.com,+61-483-548-715,Female,1981-05-31,Sydney,NSW,Australia,2024-09-10,Bronze,Mobile App,13,375.43,28.88,2024-11-22,true,true
+111299,Ethan,Khan,ethan.khan299@hotmail.com,+1-645-443-4899,Male,1984-03-19,Houston,TX,USA,2024-09-11,Bronze,Online,3,135.84,45.28,2024-11-30,true,false
+111300,Leo,Brown,leo.brown300@hotmail.com,+44-7693-125-064,Male,1977-06-19,Manchester,England,UK,2024-09-26,Bronze,Mobile App,7,287.47,41.07,2024-09-29,true,true
+111301,Ruby,Jones,ruby.jones301@hotmail.com,+61-460-669-260,Female,1997-09-09,Brisbane,QLD,Australia,2024-09-08,Bronze,Mobile App,2,131.13,65.56,2024-10-08,true,false
+111302,Noah,Jones,noah.jones302@yahoo.com,+1-891-945-0150,Other,1983-03-01,Chicago,IL,USA,2024-09-15,Bronze,In-store,2,126.82,63.41,2024-11-02,true,false
+111303,Henry,Smith,henry.smith303@example.com,+1-830-241-9871,Male,1980-08-15,Chicago,IL,USA,2024-09-03,Bronze,Online,1,48.24,48.24,2024-09-26,true,true
+111304,Amelia,Walker,amelia.walker304@hotmail.com,+91-9599037050,Female,1995-11-10,Pune,Maharashtra,India,2024-09-07,Bronze,Online,1,57.13,57.13,2024-12-18,true,false
+111305,Harry,Lee,harry.lee305@outlook.com,+44-7864-579-758,Male,2005-11-28,Cardiff,Wales,UK,2024-09-28,Bronze,In-store,5,236.14,47.23,2024-09-29,true,true
+111306,Rahul,Nguyen,rahul.nguyen306@outlook.com,+1-307-571-2533,Male,1977-01-12,Seattle,WA,USA,2024-09-29,Bronze,In-store,7,138.79,19.83,2024-10-11,true,false
+111307,Ethan,Smith,ethan.smith307@example.com,+91-9887771781,Male,1985-02-24,Chennai,Tamil Nadu,India,2024-09-04,Bronze,Online,7,270.45,38.64,2024-10-07,true,true
+111308,Amit,Sharma,amit.sharma308@gmail.com,+91-9056849687,Male,2006-09-05,Pune,Maharashtra,India,2024-09-23,Bronze,In-store,1,74.57,74.57,2024-10-29,true,false
+111309,Hannah,Garcia,hannah.garcia309@gmail.com,+1-045-032-6152,Female,1976-09-14,Montreal,QC,Canada,2024-09-10,Bronze,Online,1,65.65,65.65,2024-11-15,true,true
+111310,Jack,Walker,jack.walker310@gmail.com,+1-402-066-0587,Male,1986-02-09,Miami,FL,USA,2024-09-27,Bronze,Mobile App,1,87.95,87.95,2024-11-06,true,false
+111311,Charlotte,Garcia,charlotte.garcia311@hotmail.com,+1-873-994-6218,Female,1990-12-29,Toronto,ON,Canada,2024-09-14,Bronze,Online,2,82.09,41.05,2024-09-14,true,true
+111312,Amelia,Martin,amelia.martin312@yahoo.com,+1-788-275-2949,Female,1985-09-11,New York,NY,USA,2024-09-30,Bronze,In-store,11,251.22,22.84,2024-11-18,true,true
+111313,Oscar,Evans,oscar.evans313@example.com,+1-536-681-6584,Male,1990-07-08,Los Angeles,CA,USA,2024-09-30,Bronze,Mobile App,2,341.91,170.96,2024-11-21,true,true
+111314,Ryan,Taylor,ryan.taylor314@yahoo.com,+91-9692810188,Male,1977-06-02,Mumbai,Maharashtra,India,2024-09-17,Bronze,Mobile App,4,88.28,22.07,2024-12-01,true,true
+111315,Lily,Wilson,lily.wilson315@gmail.com,+91-9109602617,Female,1990-04-05,Bengaluru,Karnataka,India,2024-09-01,Bronze,Mobile App,3,169.97,56.66,2024-11-23,true,true
+111316,James,Garcia,james.garcia316@hotmail.com,+61-413-088-873,Male,1985-08-03,Melbourne,VIC,Australia,2024-09-07,Bronze,Online,4,138.41,34.60,2024-09-28,true,true
+111317,Sneha,Iyer,sneha.iyer317@example.com,+1-777-028-5648,Female,1976-10-04,Seattle,WA,USA,2024-09-06,Bronze,Mobile App,1,66.11,66.11,2024-10-29,true,true
+111318,Sai,Anderson,sai.anderson318@yahoo.com,+1-763-216-5316,Male,1985-09-24,Miami,FL,USA,2024-09-16,Bronze,Online,4,142.96,35.74,2024-11-14,true,true
+111319,Divya,Khan,divya.khan319@example.com,+44-7863-557-038,Female,1980-04-23,Cardiff,Wales,UK,2024-09-04,Bronze,In-store,18,452.53,25.14,2024-10-15,true,false
+111320,Rahul,Lee,rahul.lee320@example.com,+91-9310234749,Male,1994-01-06,Mumbai,Maharashtra,India,2024-09-07,Silver,Mobile App,16,1420.80,88.80,2024-10-24,true,true
+111321,Chloe,Hughes,chloe.hughes321@outlook.com,+91-9854246163,Other,1995-03-01,Delhi,Delhi,India,2024-09-03,Silver,Online,7,583.20,83.31,2024-12-19,true,false
+111322,Hannah,Williams,hannah.williams322@example.com,+44-7268-597-434,Female,1989-05-29,Manchester,England,UK,2024-09-12,Bronze,Mobile App,10,481.03,48.10,2024-11-22,true,true
+111323,Lily,Miller,lily.miller323@hotmail.com,+61-427-310-978,Female,1973-04-10,Sydney,NSW,Australia,2024-09-27,Silver,Mobile App,10,505.68,50.57,2024-12-30,true,false
+111324,Arjun,Evans,arjun.evans324@outlook.com,+61-464-643-692,Male,1972-03-04,Brisbane,QLD,Australia,2024-09-30,Silver,Online,11,966.59,87.87,2024-12-21,true,true
+111325,Amit,Reddy,amit.reddy325@yahoo.com,+44-7570-394-602,Male,1995-05-05,Edinburgh,Scotland,UK,2024-09-27,Silver,In-store,9,598.97,66.55,2024-12-24,true,true
+111326,Emma,Brown,emma.brown326@example.com,+44-7587-377-574,Female,1982-02-16,Cardiff,Wales,UK,2024-09-22,Bronze,Online,1,40.81,40.81,2024-09-28,true,false
+111327,Noah,Garcia,noah.garcia327@outlook.com,+1-852-982-6211,Male,1971-10-16,Chicago,IL,USA,2024-09-21,Bronze,Online,11,488.92,44.45,2024-10-22,true,false
+111328,Charlotte,Murphy,charlotte.murphy328@example.com,+1-668-888-4223,Female,1978-09-27,Toronto,ON,Canada,2024-09-29,Bronze,Online,2,25.95,12.97,2024-12-31,true,true
+111329,Ethan,Jones,ethan.jones329@example.com,+1-483-266-4083,Male,1979-04-09,Los Angeles,CA,USA,2024-09-19,Silver,In-store,9,621.67,69.07,2024-11-19,true,false
+111330,Vikram,Campbell,vikram.campbell330@outlook.com,+91-9999894990,Male,1983-07-15,Mumbai,Maharashtra,India,2024-09-26,Bronze,Online,2,148.40,74.20,2024-12-14,true,true
+111331,Oscar,Martin,oscar.martin331@gmail.com,+91-9046310257,Male,1988-04-07,Chennai,Tamil Nadu,India,2024-09-17,Bronze,Mobile App,2,122.94,61.47,2024-12-05,true,false
+111332,Chloe,Campbell,chloe.campbell332@outlook.com,+1-838-569-6209,Female,1973-05-27,Houston,TX,USA,2024-09-12,Bronze,In-store,5,263.91,52.78,2024-12-23,true,true
+111333,Aditya,Hughes,aditya.hughes333@yahoo.com,+91-9699239527,Male,1986-08-22,Bengaluru,Karnataka,India,2024-09-20,Bronze,Mobile App,5,187.55,37.51,2024-09-20,true,true
+111334,Arjun,Thomas,arjun.thomas334@yahoo.com,+91-9758208099,Male,1977-01-04,Delhi,Delhi,India,2024-09-06,Bronze,Mobile App,2,85.04,42.52,2024-12-31,true,true
+111335,Karthik,Brown,karthik.brown335@hotmail.com,+1-039-209-2775,Male,1976-05-18,Vancouver,BC,Canada,2024-09-13,Bronze,Online,5,295.52,59.10,2024-10-24,true,true
+111336,Kavya,Patel,kavya.patel336@gmail.com,+1-631-436-2901,Female,1967-01-12,Montreal,QC,Canada,2024-09-22,Bronze,In-store,3,425.68,141.89,2024-10-19,true,true
+111337,Zoe,Sharma,zoe.sharma337@yahoo.com,+1-553-147-3514,Female,1965-05-26,Toronto,ON,Canada,2024-09-18,Silver,In-store,11,873.82,79.44,2024-11-10,true,true
+111338,Nisha,Garcia,nisha.garcia338@outlook.com,+91-9149950151,Female,1987-05-23,Delhi,Delhi,India,2024-09-26,Bronze,Mobile App,4,227.80,56.95,2024-12-29,true,false
+111339,Kiran,Kumar,kiran.kumar339@gmail.com,+91-9702889309,Male,1987-05-27,Delhi,Delhi,India,2024-09-17,Silver,Online,15,585.38,39.03,2024-10-25,true,false
+111340,Noah,Sharma,noah.sharma340@hotmail.com,+1-889-997-7309,Male,2005-12-20,New York,NY,USA,2024-09-19,Silver,In-store,11,980.54,89.14,2024-10-09,true,true
+111341,Oliver,Reddy,oliver.reddy341@hotmail.com,+1-528-004-3005,Male,1994-11-23,Vancouver,BC,Canada,2024-09-10,Bronze,In-store,11,455.31,41.39,2024-09-30,true,false
+111342,Vikram,Taylor,vikram.taylor342@gmail.com,+91-9070907597,Male,1995-12-14,Mumbai,Maharashtra,India,2024-09-08,Bronze,In-store,2,41.27,20.64,2024-12-30,true,false
+111343,Ananya,Miller,ananya.miller343@gmail.com,+91-9632065482,Female,1974-01-06,Pune,Maharashtra,India,2024-09-02,Gold,In-store,20,2138.30,106.92,2024-10-30,true,false
+111344,Henry,Nguyen,henry.nguyen344@gmail.com,+1-971-524-7363,Male,1984-05-18,Vancouver,BC,Canada,2024-09-14,Bronze,Mobile App,6,213.27,35.55,2024-12-20,true,false
+111345,James,Anderson,james.anderson345@yahoo.com,+44-7285-375-655,Male,2006-02-13,Manchester,England,UK,2024-09-17,Bronze,Online,2,91.55,45.77,2024-09-18,true,true
+111346,William,Lee,william.lee346@yahoo.com,+1-536-663-1758,Male,1999-11-12,Chicago,IL,USA,2024-09-03,Bronze,Mobile App,1,54.82,54.82,2024-10-28,true,true
+111347,Emma,Davis,emma.davis347@gmail.com,+1-006-623-0553,Other,2006-05-06,Miami,FL,USA,2024-09-07,Bronze,In-store,4,181.29,45.32,2024-09-25,true,true
+111348,Ethan,Anderson,ethan.anderson348@hotmail.com,+91-9726129760,Male,1995-03-20,Chennai,Tamil Nadu,India,2024-09-22,Bronze,Mobile App,1,58.93,58.93,2024-12-07,true,false
+111349,Henry,Clarke,henry.clarke349@hotmail.com,+1-856-550-5010,Male,1977-09-20,Los Angeles,CA,USA,2024-09-24,Silver,Online,13,1446.51,111.27,2024-10-30,true,true
+111350,Jack,Gupta,jack.gupta350@hotmail.com,+61-466-042-432,Male,1976-09-02,Brisbane,QLD,Australia,2024-09-27,Silver,In-store,5,500.25,100.05,2024-11-18,true,true
+111351,Lakshmi,Williams,lakshmi.williams351@hotmail.com,+1-562-728-9665,Female,1977-02-09,Miami,FL,USA,2024-09-13,Bronze,In-store,6,201.07,33.51,2024-12-25,true,false
+111352,Kiran,Singh,kiran.singh352@outlook.com,+1-939-222-8407,Other,1996-12-15,Seattle,WA,USA,2024-09-22,Bronze,In-store,2,82.48,41.24,2024-09-29,true,true
+111353,Sophia,Hughes,sophia.hughes353@hotmail.com,+1-736-643-3169,Female,1978-11-15,Los Angeles,CA,USA,2024-09-26,Silver,Mobile App,15,958.94,63.93,2024-10-24,true,false
+111354,Hannah,Patel,hannah.patel354@outlook.com,+91-9840132987,Female,1982-07-22,Delhi,Delhi,India,2024-09-21,Bronze,Mobile App,5,143.02,28.60,2024-11-11,true,true
+111355,Liam,Smith,liam.smith355@yahoo.com,+1-451-513-3753,Male,1996-12-07,Chicago,IL,USA,2024-09-21,Bronze,In-store,2,106.84,53.42,2024-12-19,true,true
+111356,Hannah,Clarke,hannah.clarke356@outlook.com,+1-172-132-1983,Female,2006-05-21,Chicago,IL,USA,2024-09-17,Bronze,In-store,1,103.25,103.25,2024-11-23,true,false
+111357,Rahul,Clarke,rahul.clarke357@yahoo.com,+44-7408-272-830,Male,1986-06-06,Cardiff,Wales,UK,2024-09-13,Bronze,Online,9,339.99,37.78,2024-12-01,true,true
+111358,William,Patel,william.patel358@outlook.com,+44-7272-971-629,Male,1975-08-23,Edinburgh,Scotland,UK,2024-09-13,Silver,Online,18,1514.29,84.13,2024-09-23,true,false
+111359,Ethan,Garcia,ethan.garcia359@yahoo.com,+44-7124-648-577,Male,1968-05-21,Cardiff,Wales,UK,2024-09-15,Bronze,Online,3,78.58,26.19,2024-10-22,true,false
+111360,Noah,Jones,noah.jones360@outlook.com,+91-9814268354,Male,1988-02-11,Bengaluru,Karnataka,India,2024-09-28,Gold,Online,18,4236.74,235.37,2024-10-25,true,true
+111361,Zoe,Campbell,zoe.campbell361@example.com,+91-9889292905,Female,1989-02-15,Mumbai,Maharashtra,India,2024-09-24,Silver,Online,4,606.41,151.60,2024-11-27,true,true
+111362,Ella,Miller,ella.miller362@yahoo.com,+44-7613-743-680,Female,1989-06-25,Manchester,England,UK,2024-09-05,Bronze,In-store,7,448.20,64.03,2024-09-20,true,true
+111363,Ruby,Patel,ruby.patel363@example.com,+91-9243598264,Female,1990-06-12,Pune,Maharashtra,India,2024-09-25,Bronze,Online,8,221.53,27.69,2024-10-25,true,false
+111364,Vikram,Johnson,vikram.johnson364@hotmail.com,+1-420-706-4267,Male,1965-01-06,Chicago,IL,USA,2024-09-11,Bronze,Online,1,63.38,63.38,2024-09-15,true,false
+111365,Arjun,Wilson,arjun.wilson365@gmail.com,+91-9574307329,Male,1973-10-07,Delhi,Delhi,India,2024-09-28,Bronze,Online,8,450.79,56.35,2024-12-22,true,false
+111366,Priya,Rao,priya.rao366@example.com,+61-488-997-107,Female,1989-05-05,Melbourne,VIC,Australia,2024-09-23,Bronze,Mobile App,5,188.48,37.70,2024-10-13,true,true
+111367,Vikram,Evans,vikram.evans367@example.com,+91-9748394687,Male,1990-07-24,Chennai,Tamil Nadu,India,2024-09-10,Bronze,Online,3,228.81,76.27,2024-12-12,true,true
+111368,Meera,Clarke,meera.clarke368@outlook.com,+1-105-378-6682,Female,1974-07-18,New York,NY,USA,2024-09-09,Silver,In-store,5,623.38,124.68,2024-11-29,true,true
+111369,Priya,Johnson,priya.johnson369@yahoo.com,+91-9478407736,Female,1982-08-28,Bengaluru,Karnataka,India,2024-09-28,Silver,Online,10,850.40,85.04,2024-12-10,true,true
+111370,Aditya,Nair,aditya.nair370@gmail.com,+1-109-899-9019,Male,1982-09-06,Toronto,ON,Canada,2024-09-14,Silver,Mobile App,18,1259.16,69.95,2024-12-28,true,false
+111371,Priya,Martin,priya.martin371@gmail.com,+91-9415186638,Female,1987-05-13,Delhi,Delhi,India,2024-09-08,Bronze,Online,1,32.32,32.32,2024-11-09,true,false
+111372,Jack,Singh,jack.singh372@hotmail.com,+91-9807225106,Male,1983-09-14,Delhi,Delhi,India,2024-09-20,Silver,In-store,3,526.60,175.53,2024-09-22,true,false
+111373,Sophia,Davis,sophia.davis373@yahoo.com,+91-9283446750,Female,1993-10-17,Chennai,Tamil Nadu,India,2024-09-26,Bronze,Mobile App,1,42.71,42.71,2024-10-18,true,true
+111374,Divya,Johnson,divya.johnson374@outlook.com,+1-410-645-0793,Female,1990-09-09,Los Angeles,CA,USA,2024-09-05,Bronze,In-store,5,319.91,63.98,2024-09-29,true,true
+111375,Sai,Walker,sai.walker375@hotmail.com,+1-940-570-9695,Male,1989-09-12,Chicago,IL,USA,2024-09-25,Bronze,Online,7,411.09,58.73,2024-10-25,true,false
+111376,Aditya,Jones,aditya.jones376@example.com,+91-9849523061,Male,1990-08-26,Pune,Maharashtra,India,2024-09-30,Bronze,Mobile App,3,204.02,68.01,2024-09-30,true,false
+111377,Ananya,Reddy,ananya.reddy377@yahoo.com,+1-970-914-6361,Female,1966-03-16,Houston,TX,USA,2024-09-05,Silver,In-store,8,703.69,87.96,2024-12-27,true,true
+111378,William,Iyer,william.iyer378@gmail.com,+91-9172921438,Male,1988-02-09,Pune,Maharashtra,India,2024-09-10,Bronze,Mobile App,5,128.81,25.76,2024-12-27,true,false
+111379,Divya,Sharma,divya.sharma379@hotmail.com,+1-512-708-9411,Female,1992-06-01,Toronto,ON,Canada,2024-09-14,Bronze,Online,1,15.63,15.63,2024-10-13,true,false
+111380,Divya,Nguyen,divya.nguyen380@hotmail.com,+91-9151384541,Female,1982-06-26,Hyderabad,Telangana,India,2024-09-02,Bronze,Mobile App,3,133.63,44.54,2024-12-04,true,true
+111381,Liam,Khan,liam.khan381@yahoo.com,+61-476-954-236,Male,1990-08-13,Melbourne,VIC,Australia,2024-09-04,Bronze,In-store,8,149.32,18.66,2024-10-17,true,true
+111382,Lucas,Clarke,lucas.clarke382@outlook.com,+91-9484286110,Male,1995-07-01,Bengaluru,Karnataka,India,2024-09-25,Bronze,Mobile App,4,248.97,62.24,2024-11-26,true,false
+111383,Isabella,Hughes,isabella.hughes383@outlook.com,+1-150-852-5007,Female,1980-03-12,New York,NY,USA,2024-09-19,Bronze,In-store,6,269.31,44.88,2024-12-01,true,false
+111384,Vikram,Campbell,vikram.campbell384@hotmail.com,+1-699-576-4241,Male,1991-07-22,Vancouver,BC,Canada,2024-09-11,Silver,Mobile App,4,684.25,171.06,2024-09-19,true,false
+111385,Arjun,Taylor,arjun.taylor385@outlook.com,+44-7195-816-632,Male,1977-05-17,Cardiff,Wales,UK,2024-09-18,Bronze,Mobile App,6,412.67,68.78,2024-12-18,true,false
+111386,Isabella,Clarke,isabella.clarke386@gmail.com,+1-095-814-7325,Female,1974-09-30,Los Angeles,CA,USA,2024-09-21,Silver,Mobile App,6,613.02,102.17,2024-12-16,true,false
+111387,James,Davis,james.davis387@gmail.com,+61-456-045-673,Other,1970-10-06,Melbourne,VIC,Australia,2024-09-16,Bronze,Mobile App,1,28.29,28.29,2024-09-16,true,true
+111388,Amelia,Sharma,amelia.sharma388@example.com,+1-873-745-7560,Female,2006-03-21,Los Angeles,CA,USA,2024-09-09,Bronze,In-store,6,240.13,40.02,2024-10-16,true,false
+111389,Ava,Miller,ava.miller389@gmail.com,+1-183-771-3676,Female,1972-06-26,New York,NY,USA,2024-09-01,Bronze,Online,1,27.89,27.89,2024-11-28,true,true
+111390,Emma,Gupta,emma.gupta390@hotmail.com,+91-9060849516,Female,1972-10-20,Pune,Maharashtra,India,2024-09-01,Silver,Online,9,701.75,77.97,2024-09-10,true,true
+111391,Arjun,Taylor,arjun.taylor391@gmail.com,+1-353-846-3851,Male,1972-02-25,Miami,FL,USA,2024-09-09,Bronze,Online,2,116.77,58.38,2024-10-30,true,true
+111392,Sophia,Anderson,sophia.anderson392@example.com,+91-9807211568,Female,1998-04-07,Pune,Maharashtra,India,2024-09-05,Bronze,Online,3,190.83,63.61,2024-10-27,true,false
+111393,Karthik,Nair,karthik.nair393@hotmail.com,+1-521-796-8888,Male,1989-03-16,Montreal,QC,Canada,2024-09-22,Bronze,In-store,1,57.11,57.11,2024-09-24,true,false
+111394,Noah,Smith,noah.smith394@gmail.com,+91-9163969800,Male,1970-03-16,Bengaluru,Karnataka,India,2024-09-10,Silver,Mobile App,7,961.33,137.33,2024-10-31,true,true
+111395,Emma,Jones,emma.jones395@hotmail.com,+61-468-101-725,Female,1999-09-29,Sydney,NSW,Australia,2024-09-09,Bronze,In-store,2,76.37,38.19,2024-12-07,true,false
+111396,Isabella,Reddy,isabella.reddy396@gmail.com,+61-472-521-690,Female,1987-03-18,Melbourne,VIC,Australia,2024-09-26,Bronze,Mobile App,4,387.84,96.96,2024-12-07,true,false
+111397,Olivia,Williams,olivia.williams397@yahoo.com,+91-9409240693,Female,1994-06-01,Bengaluru,Karnataka,India,2024-09-21,Bronze,Mobile App,1,24.12,24.12,2024-10-20,true,true
+111398,Ryan,Walker,ryan.walker398@gmail.com,+1-897-439-0841,Male,1989-07-10,Houston,TX,USA,2024-09-13,Silver,Online,7,845.53,120.79,2024-12-15,true,true
+111399,Isabella,Williams,isabella.williams399@yahoo.com,+91-9795384309,Female,1977-07-24,Hyderabad,Telangana,India,2024-09-25,Bronze,Mobile App,9,241.61,26.85,2024-10-29,true,true
+111400,Karthik,Clarke,karthik.clarke400@example.com,+91-9554617633,Male,1992-11-11,Pune,Maharashtra,India,2024-09-30,Bronze,Online,6,192.22,32.04,2024-10-14,true,true
+111401,Aisha,Clarke,aisha.clarke401@outlook.com,+91-9081286780,Female,1985-02-07,Hyderabad,Telangana,India,2024-09-20,Bronze,In-store,5,322.75,64.55,2024-12-24,true,false
+111402,Chloe,Wilson,chloe.wilson402@hotmail.com,+91-9821629081,Other,1994-10-06,Chennai,Tamil Nadu,India,2024-09-16,Bronze,In-store,1,72.71,72.71,2024-11-22,true,false
+111403,Isabella,Nguyen,isabella.nguyen403@outlook.com,+1-789-432-0891,Female,1991-08-03,Montreal,QC,Canada,2024-09-17,Bronze,Mobile App,4,122.35,30.59,2024-09-21,true,false
+111404,Ella,Davis,ella.davis404@example.com,+1-270-184-5065,Female,1972-04-17,Toronto,ON,Canada,2024-09-15,Bronze,In-store,10,440.53,44.05,2024-11-25,true,true
+111405,Emma,Garcia,emma.garcia405@hotmail.com,+1-614-734-7182,Female,1981-01-24,Seattle,WA,USA,2024-09-27,Bronze,Mobile App,4,161.08,40.27,2024-10-21,true,true
+111406,Chloe,Lee,chloe.lee406@example.com,+44-7777-668-575,Female,1970-12-20,Edinburgh,Scotland,UK,2024-09-19,Bronze,In-store,2,291.97,145.99,2024-12-23,true,true
+111407,Mia,Wilson,mia.wilson407@yahoo.com,+61-409-882-665,Female,1970-07-20,Sydney,NSW,Australia,2024-09-27,Bronze,Mobile App,5,211.75,42.35,2024-12-14,true,true
+111408,Rahul,Brown,rahul.brown408@hotmail.com,+91-9839044386,Male,1977-02-28,Bengaluru,Karnataka,India,2024-09-12,Silver,Mobile App,21,1206.33,57.44,2024-09-18,true,false
+111409,Ella,Jones,ella.jones409@yahoo.com,+1-942-182-4074,Female,1978-10-25,Seattle,WA,USA,2024-09-29,Silver,Mobile App,9,632.13,70.24,2024-10-28,true,false
+111410,Lily,Clarke,lily.clarke410@outlook.com,+91-9137623093,Female,2004-02-02,Pune,Maharashtra,India,2024-09-18,Bronze,Mobile App,5,355.11,71.02,2024-12-05,true,true
+111411,Mason,Anderson,mason.anderson411@gmail.com,+1-839-011-9344,Male,1968-06-07,Miami,FL,USA,2024-09-25,Bronze,Mobile App,2,90.83,45.41,2024-11-05,true,true
+111412,Meera,Gupta,meera.gupta412@hotmail.com,+44-7433-943-032,Female,2006-03-01,Cardiff,Wales,UK,2024-09-25,Bronze,In-store,1,50.22,50.22,2024-12-21,true,false
+111413,Olivia,Kumar,olivia.kumar413@example.com,+61-421-280-492,Female,2006-01-29,Sydney,NSW,Australia,2024-09-29,Bronze,Online,3,61.47,20.49,2024-10-07,true,true
+111414,Henry,Wilson,henry.wilson414@yahoo.com,+1-145-362-0838,Other,1988-08-04,Miami,FL,USA,2024-09-13,Bronze,Online,5,370.33,74.07,2024-12-17,true,true
+111415,Priya,Murphy,priya.murphy415@example.com,+91-9954195886,Female,1993-06-04,Bengaluru,Karnataka,India,2024-09-05,Bronze,Online,1,90.70,90.70,2024-10-11,true,true
+111416,Oscar,Reddy,oscar.reddy416@gmail.com,+91-9701346062,Male,1992-03-26,Hyderabad,Telangana,India,2024-09-03,Silver,Mobile App,6,909.74,151.62,2024-12-17,true,true
+111417,Ava,Davis,ava.davis417@example.com,+61-411-151-991,Female,1974-10-01,Melbourne,VIC,Australia,2024-09-08,Bronze,Mobile App,1,42.54,42.54,2024-10-10,true,false
+111418,Amit,Taylor,amit.taylor418@yahoo.com,+1-516-403-2574,Male,1976-04-04,Montreal,QC,Canada,2024-09-06,Silver,In-store,11,977.33,88.85,2024-11-17,true,true
+111419,Lucas,Nair,lucas.nair419@yahoo.com,+44-7535-174-379,Male,1962-09-01,Edinburgh,Scotland,UK,2024-09-19,Bronze,In-store,2,84.87,42.44,2024-09-29,true,true
+111420,Leo,Kumar,leo.kumar420@yahoo.com,+1-294-754-2726,Male,1957-03-17,Seattle,WA,USA,2024-09-11,Bronze,Mobile App,6,128.05,21.34,2024-10-06,true,false
+111421,Henry,Gupta,henry.gupta421@hotmail.com,+1-076-336-4695,Male,1971-02-21,New York,NY,USA,2024-09-18,Bronze,Online,4,146.87,36.72,2024-10-29,true,true
+111422,Henry,Jones,henry.jones422@yahoo.com,+1-598-913-9340,Male,1978-01-14,Vancouver,BC,Canada,2024-09-23,Bronze,Online,3,67.90,22.63,2024-11-30,true,true
+111423,Ruby,Reddy,ruby.reddy423@hotmail.com,+44-7755-961-748,Female,1974-03-19,Edinburgh,Scotland,UK,2024-09-16,Bronze,Online,2,149.87,74.94,2024-09-19,true,false
+111424,Arjun,Khan,arjun.khan424@example.com,+61-458-032-567,Male,1968-12-21,Melbourne,VIC,Australia,2024-09-25,Bronze,Online,4,125.05,31.26,2024-10-29,true,true
+111425,Ella,Rao,ella.rao425@hotmail.com,+91-9615956956,Female,1990-06-23,Hyderabad,Telangana,India,2024-09-22,Bronze,Online,6,194.32,32.39,2024-10-27,true,false
+111426,Hannah,Campbell,hannah.campbell426@example.com,+91-9207168381,Female,1967-09-11,Chennai,Tamil Nadu,India,2024-09-18,Bronze,In-store,2,92.14,46.07,2024-12-02,true,false
+111427,Jack,Singh,jack.singh427@gmail.com,+1-753-962-2053,Male,1982-02-27,Toronto,ON,Canada,2024-09-24,Silver,Online,15,1091.24,72.75,2024-10-15,true,true
+111428,Arjun,Nguyen,arjun.nguyen428@gmail.com,+1-109-045-6151,Male,1997-04-25,Seattle,WA,USA,2024-09-19,Bronze,Online,8,166.20,20.77,2024-11-15,true,false
+111429,Mason,Johnson,mason.johnson429@example.com,+91-9645843006,Male,1994-10-03,Bengaluru,Karnataka,India,2024-09-15,Bronze,Mobile App,1,42.13,42.13,2024-10-26,true,true
+111430,Henry,Davis,henry.davis430@outlook.com,+44-7765-226-978,Male,1989-06-21,London,England,UK,2024-09-29,Bronze,In-store,2,137.74,68.87,2024-11-05,true,true
+111431,Ryan,Wilson,ryan.wilson431@gmail.com,+91-9803333413,Male,1973-11-15,Pune,Maharashtra,India,2024-09-16,Bronze,In-store,8,493.00,61.62,2024-11-01,true,true
+111432,Oscar,Singh,oscar.singh432@example.com,+91-9854048212,Male,2002-12-30,Mumbai,Maharashtra,India,2024-09-16,Silver,In-store,21,834.40,39.73,2024-12-31,true,true
+111433,Jack,Garcia,jack.garcia433@yahoo.com,+44-7917-753-519,Male,1988-08-07,Edinburgh,Scotland,UK,2024-09-07,Bronze,Online,4,409.85,102.46,2024-11-20,true,false
+111434,Mia,Evans,mia.evans434@hotmail.com,+1-952-774-2556,Female,1993-06-03,Montreal,QC,Canada,2024-09-17,Bronze,Mobile App,3,264.62,88.21,2024-11-22,true,true
+111435,James,Davis,james.davis435@yahoo.com,+91-9853742939,Male,1997-06-15,Bengaluru,Karnataka,India,2024-09-05,Bronze,Online,2,46.76,23.38,2024-12-28,true,true
+111436,Harry,Lee,harry.lee436@gmail.com,+61-496-176-356,Male,1996-06-09,Sydney,NSW,Australia,2024-09-20,Bronze,Mobile App,4,209.83,52.46,2024-12-08,true,false
+111437,Jack,Gupta,jack.gupta437@hotmail.com,+91-9733198697,Male,2001-12-05,Chennai,Tamil Nadu,India,2024-09-08,Bronze,In-store,7,446.52,63.79,2024-09-13,true,true
+111438,Rohan,Walker,rohan.walker438@hotmail.com,+44-7123-698-199,Male,1993-06-29,London,England,UK,2024-09-26,Bronze,Mobile App,1,45.46,45.46,2024-12-06,true,false
+111439,Aisha,Davis,aisha.davis439@example.com,+1-142-154-7161,Other,1990-11-06,Toronto,ON,Canada,2024-09-09,Bronze,In-store,5,290.37,58.07,2024-11-07,true,false
+111440,Hannah,Taylor,hannah.taylor440@outlook.com,+1-873-874-8391,Female,1994-04-23,Miami,FL,USA,2024-09-14,Silver,In-store,9,1754.74,194.97,2024-11-19,true,true
+111441,Ravi,Taylor,ravi.taylor441@outlook.com,+1-301-505-6130,Male,1974-06-28,Los Angeles,CA,USA,2024-09-23,Bronze,Mobile App,6,451.29,75.22,2024-12-16,true,false
+111442,Nisha,Garcia,nisha.garcia442@gmail.com,+1-517-908-2641,Female,2006-01-01,Houston,TX,USA,2024-09-06,Silver,Online,14,986.69,70.48,2024-10-24,true,true
+111443,Daniel,Sharma,daniel.sharma443@yahoo.com,+1-622-964-5939,Male,1967-05-04,Vancouver,BC,Canada,2024-09-05,Silver,Mobile App,20,1127.39,56.37,2024-11-02,true,false
+111444,Leo,Singh,leo.singh444@example.com,+91-9040039095,Male,1978-10-29,Mumbai,Maharashtra,India,2024-09-05,Silver,Mobile App,11,729.78,66.34,2024-12-18,true,false
+111445,Ruby,Nair,ruby.nair445@hotmail.com,+1-948-346-8205,Female,1993-07-04,Toronto,ON,Canada,2024-09-21,Silver,In-store,20,980.73,49.04,2024-10-25,true,false
+111446,Jack,Campbell,jack.campbell446@hotmail.com,+1-869-928-2609,Male,1993-01-16,Miami,FL,USA,2024-09-29,Bronze,In-store,4,307.43,76.86,2024-12-17,true,true
+111447,Grace,Iyer,grace.iyer447@outlook.com,+91-9262991390,Female,2000-04-03,Hyderabad,Telangana,India,2024-09-20,Bronze,Online,1,56.63,56.63,2024-09-27,true,true
+111448,Jack,Reddy,jack.reddy448@yahoo.com,+1-872-423-2002,Male,1976-04-26,Vancouver,BC,Canada,2024-09-20,Bronze,Mobile App,3,235.76,78.59,2024-09-20,true,false
+111449,Jack,Brown,jack.brown449@yahoo.com,+1-354-981-6858,Male,1981-01-28,Vancouver,BC,Canada,2024-09-17,Bronze,In-store,3,186.71,62.24,2024-12-10,true,true
+111450,Ryan,Johnson,ryan.johnson450@gmail.com,+1-326-127-1894,Male,1994-12-13,Montreal,QC,Canada,2024-09-13,Bronze,Online,2,76.03,38.02,2024-12-29,true,true
+111451,Amit,Campbell,amit.campbell451@outlook.com,+1-863-066-2252,Male,1958-06-04,Los Angeles,CA,USA,2024-09-27,Bronze,Mobile App,7,239.83,34.26,2024-11-03,true,true
+111452,Sai,Wilson,sai.wilson452@example.com,+91-9742846091,Male,1982-06-12,Chennai,Tamil Nadu,India,2024-09-16,Bronze,Online,5,268.91,53.78,2024-12-03,true,false
+111453,Ruby,Nair,ruby.nair453@example.com,+1-111-007-7890,Female,1992-08-11,Montreal,QC,Canada,2024-09-30,Bronze,In-store,3,150.65,50.22,2024-10-25,true,false
+111454,Leo,Anderson,leo.anderson454@hotmail.com,+1-701-605-4614,Male,1995-04-24,Houston,TX,USA,2024-09-04,Silver,In-store,7,849.42,121.35,2024-10-12,true,true
