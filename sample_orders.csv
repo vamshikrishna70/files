@@ -1,0 +1,6 @@
+order_id,customer_name,city,category,amount_inr,is_delivered
+ORD-1001,Aarav Sharma,Bengaluru,Electronics,24999.5,True
+ORD-1002,Priya Nair,Kochi,Books,850.0,True
+ORD-1003,Rohan Verma,Hyderabad,Home Appliances,12450.75,False
+ORD-1004,Ananya Iyer,Chennai,Fashion,3200.0,True
+ORD-1005,Vikram Singh,Pune,Groceries,1640.25,True

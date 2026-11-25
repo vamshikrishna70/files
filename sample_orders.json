@@ -1,0 +1,42 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "customer_name": "Aarav Sharma",
+    "city": "Bengaluru",
+    "category": "Electronics",
+    "amount_inr": 24999.5,
+    "is_delivered": true
+  },
+  {
+    "order_id": "ORD-1002",
+    "customer_name": "Priya Nair",
+    "city": "Kochi",
+    "category": "Books",
+    "amount_inr": 850.0,
+    "is_delivered": true
+  },
+  {
+    "order_id": "ORD-1003",
+    "customer_name": "Rohan Verma",
+    "city": "Hyderabad",
+    "category": "Home Appliances",
+    "amount_inr": 12450.75,
+    "is_delivered": false
+  },
+  {
+    "order_id": "ORD-1004",
+    "customer_name": "Ananya Iyer",
+    "city": "Chennai",
+    "category": "Fashion",
+    "amount_inr": 3200.0,
+    "is_delivered": true
+  },
+  {
+    "order_id": "ORD-1005",
+    "customer_name": "Vikram Singh",
+    "city": "Pune",
+    "category": "Groceries",
+    "amount_inr": 1640.25,
+    "is_delivered": true
+  }
+]
